@@ -1,0 +1,43 @@
+coverage:
+  total_frkp_documents_analyzed: 70
+  mapped_frkp_documents: 70
+  unmapped_frkp_documents: 0
+  total_canonical_concepts: 53
+  mapped_canonical_concepts: 28
+  orphan_canonical_concepts: 25
+  duplicate_mappings:
+    []
+  conflicting_mappings:
+    []
+  confidence_distribution:
+    High: 23
+    Medium: 28
+    Low: 2
+  unmapped_frkp_document_ids:
+    []
+  orphan_canonical_concept_ids:
+    - "CAN-CON-000001"
+    - "CAN-CON-000005"
+    - "CAN-CON-000006"
+    - "CAN-CON-000007"
+    - "CAN-CON-000008"
+    - "CAN-CON-000012"
+    - "CAN-CON-000020"
+    - "CAN-CON-000022"
+    - "CAN-CON-000025"
+    - "CAN-CON-000026"
+    - "CAN-CON-000029"
+    - "CAN-CON-000030"
+    - "CAN-CON-000032"
+    - "CAN-CON-000033"
+    - "CAN-CON-000034"
+    - "CAN-CON-000035"
+    - "CAN-CON-000036"
+    - "CAN-CON-000037"
+    - "CAN-CON-000039"
+    - "CAN-CON-000045"
+    - "CAN-CON-000048"
+    - "CAN-CON-000049"
+    - "CAN-CON-000050"
+    - "CAN-CON-000052"
+    - "CAN-CON-000053"

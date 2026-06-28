@@ -1,0 +1,409 @@
+evidence_validation_results: 
+  generated_at: "2026-06-28T05:43:16.176Z"
+  validation_scope: 
+    canonical_concepts: 53
+    evidence_bundles: 53
+    evidence_records: 667
+    retrieval_indexes: 
+      - "concept_index.yaml"
+      - "formula_index.yaml"
+      - "regulation_index.yaml"
+      - "document_index.yaml"
+      - "domain_index.yaml"
+      - "glossary_index.yaml"
+    required_queries: 17
+  evidence_coverage: 
+    status: "PASS"
+    missing_evidence_bundles: []
+    empty_evidence_bundles: []
+    broken_evidence_references: []
+    low_confidence_only_concepts: 
+      - concept_id: "CAN-CON-000002"
+        canonical_name: "Basel Framework"
+        evidence_records: 8
+      - concept_id: "CAN-CON-000016"
+        canonical_name: "Expected Credit Loss"
+        evidence_records: 8
+      - concept_id: "CAN-CON-000028"
+        canonical_name: "Market Risk Measurement"
+        evidence_records: 8
+      - concept_id: "CAN-CON-000029"
+        canonical_name: "Model Validation"
+        evidence_records: 6
+      - concept_id: "CAN-CON-000040"
+        canonical_name: "Regulatory Capital"
+        evidence_records: 8
+      - concept_id: "CAN-CON-000045"
+        canonical_name: "Risk Management"
+        evidence_records: 8
+    concept_results: 
+      - concept_id: "CAN-CON-000001"
+        canonical_name: "Backtesting"
+        has_bundle: true
+        evidence_record_count: 6
+        confidence_distribution: 
+          High: 6
+      - concept_id: "CAN-CON-000002"
+        canonical_name: "Basel Framework"
+        has_bundle: true
+        evidence_record_count: 8
+        confidence_distribution: 
+          Low: 8
+      - concept_id: "CAN-CON-000003"
+        canonical_name: "Basel II"
+        has_bundle: true
+        evidence_record_count: 9
+        confidence_distribution: 
+          Medium: 7
+          High: 2
+      - concept_id: "CAN-CON-000004"
+        canonical_name: "Basel III"
+        has_bundle: true
+        evidence_record_count: 10
+        confidence_distribution: 
+          Medium: 8
+          High: 2
+      - concept_id: "CAN-CON-000005"
+        canonical_name: "Batch Scheduler"
+        has_bundle: true
+        evidence_record_count: 20
+        confidence_distribution: 
+          High: 20
+      - concept_id: "CAN-CON-000006"
+        canonical_name: "Capital Ratio"
+        has_bundle: true
+        evidence_record_count: 7
+        confidence_distribution: 
+          High: 7
+      - concept_id: "CAN-CON-000007"
+        canonical_name: "Capital Requirement"
+        has_bundle: true
+        evidence_record_count: 8
+        confidence_distribution: 
+          High: 8
+      - concept_id: "CAN-CON-000008"
+        canonical_name: "Correlation"
+        has_bundle: true
+        evidence_record_count: 18
+        confidence_distribution: 
+          High: 18
+      - concept_id: "CAN-CON-000009"
+        canonical_name: "Counterparty Credit Risk"
+        has_bundle: true
+        evidence_record_count: 16
+        confidence_distribution: 
+          Medium: 16
+      - concept_id: "CAN-CON-000010"
+        canonical_name: "Credit Risk"
+        has_bundle: true
+        evidence_record_count: 16
+        confidence_distribution: 
+          Medium: 14
+          High: 2
+      - concept_id: "CAN-CON-000011"
+        canonical_name: "Credit Valuation Adjustment"
+        has_bundle: true
+        evidence_record_count: 1
+        confidence_distribution: 
+          Medium: 1
+      - concept_id: "CAN-CON-000012"
+        canonical_name: "Data Loader"
+        has_bundle: true
+        evidence_record_count: 8
+        confidence_distribution: 
+          High: 8
+      - concept_id: "CAN-CON-000013"
+        canonical_name: "Default"
+        has_bundle: true
+        evidence_record_count: 23
+        confidence_distribution: 
+          High: 23
+      - concept_id: "CAN-CON-000014"
+        canonical_name: "Default Risk"
+        has_bundle: true
+        evidence_record_count: 13
+        confidence_distribution: 
+          Medium: 12
+          High: 1
+      - concept_id: "CAN-CON-000015"
+        canonical_name: "Default Risk Charge"
+        has_bundle: true
+        evidence_record_count: 11
+        confidence_distribution: 
+          High: 11
+      - concept_id: "CAN-CON-000016"
+        canonical_name: "Expected Credit Loss"
+        has_bundle: true
+        evidence_record_count: 8
+        confidence_distribution: 
+          Low: 8
+      - concept_id: "CAN-CON-000017"
+        canonical_name: "Expected Shortfall"
+        has_bundle: true
+        evidence_record_count: 9
+        confidence_distribution: 
+          Medium: 6
+          High: 3
+      - concept_id: "CAN-CON-000018"
+        canonical_name: "Exposure at Default"
+        has_bundle: true
+        evidence_record_count: 1
+        confidence_distribution: 
+          High: 1
+      - concept_id: "CAN-CON-000019"
+        canonical_name: "Fundamental Review of the Trading Book"
+        has_bundle: true
+        evidence_record_count: 19
+        confidence_distribution: 
+          Medium: 19
+      - concept_id: "CAN-CON-000020"
+        canonical_name: "Historical Simulation"
+        has_bundle: true
+        evidence_record_count: 9
+        confidence_distribution: 
+          High: 9
+      - concept_id: "CAN-CON-000021"
+        canonical_name: "IFRS 9"
+        has_bundle: true
+        evidence_record_count: 1
+        confidence_distribution: 
+          Medium: 1
+      - concept_id: "CAN-CON-000022"
+        canonical_name: "Java"
+        has_bundle: true
+        evidence_record_count: 7
+        confidence_distribution: 
+          High: 7
+      - concept_id: "CAN-CON-000023"
+        canonical_name: "Liquidity Horizon"
+        has_bundle: true
+        evidence_record_count: 1
+        confidence_distribution: 
+          High: 1
+      - concept_id: "CAN-CON-000024"
+        canonical_name: "Loss Given Default"
+        has_bundle: true
+        evidence_record_count: 9
+        confidence_distribution: 
+          High: 9
+      - concept_id: "CAN-CON-000025"
+        canonical_name: "Margin"
+        has_bundle: true
+        evidence_record_count: 7
+        confidence_distribution: 
+          High: 7
+      - concept_id: "CAN-CON-000026"
+        canonical_name: "Market Data"
+        has_bundle: true
+        evidence_record_count: 19
+        confidence_distribution: 
+          High: 19
+      - concept_id: "CAN-CON-000027"
+        canonical_name: "Market Risk"
+        has_bundle: true
+        evidence_record_count: 28
+        confidence_distribution: 
+          High: 4
+          Medium: 24
+      - concept_id: "CAN-CON-000028"
+        canonical_name: "Market Risk Measurement"
+        has_bundle: true
+        evidence_record_count: 8
+        confidence_distribution: 
+          Low: 8
+      - concept_id: "CAN-CON-000029"
+        canonical_name: "Model Validation"
+        has_bundle: true
+        evidence_record_count: 6
+        confidence_distribution: 
+          Low: 6
+      - concept_id: "CAN-CON-000030"
+        canonical_name: "Monte Carlo Simulation"
+        has_bundle: true
+        evidence_record_count: 4
+        confidence_distribution: 
+          High: 4
+      - concept_id: "CAN-CON-000031"
+        canonical_name: "Net Capital Ratio"
+        has_bundle: true
+        evidence_record_count: 19
+        confidence_distribution: 
+          High: 12
+          Medium: 7
+      - concept_id: "CAN-CON-000032"
+        canonical_name: "Operational Risk"
+        has_bundle: true
+        evidence_record_count: 10
+        confidence_distribution: 
+          Medium: 9
+          High: 1
+      - concept_id: "CAN-CON-000033"
+        canonical_name: "Over-the-Counter Derivatives"
+        has_bundle: true
+        evidence_record_count: 14
+        confidence_distribution: 
+          Medium: 14
+      - concept_id: "CAN-CON-000034"
+        canonical_name: "Parametric VaR"
+        has_bundle: true
+        evidence_record_count: 9
+        confidence_distribution: 
+          High: 9
+      - concept_id: "CAN-CON-000035"
+        canonical_name: "Portfolio"
+        has_bundle: true
+        evidence_record_count: 21
+        confidence_distribution: 
+          High: 21
+      - concept_id: "CAN-CON-000036"
+        canonical_name: "Position"
+        has_bundle: true
+        evidence_record_count: 28
+        confidence_distribution: 
+          High: 28
+      - concept_id: "CAN-CON-000037"
+        canonical_name: "Pricing"
+        has_bundle: true
+        evidence_record_count: 26
+        confidence_distribution: 
+          High: 7
+          Medium: 19
+      - concept_id: "CAN-CON-000038"
+        canonical_name: "Probability of Default"
+        has_bundle: true
+        evidence_record_count: 5
+        confidence_distribution: 
+          High: 5
+      - concept_id: "CAN-CON-000039"
+        canonical_name: "Profit and Loss"
+        has_bundle: true
+        evidence_record_count: 20
+        confidence_distribution: 
+          Medium: 20
+      - concept_id: "CAN-CON-000040"
+        canonical_name: "Regulatory Capital"
+        has_bundle: true
+        evidence_record_count: 8
+        confidence_distribution: 
+          Low: 8
+      - concept_id: "CAN-CON-000041"
+        canonical_name: "Residual Risk Add-on"
+        has_bundle: true
+        evidence_record_count: 10
+        confidence_distribution: 
+          High: 10
+      - concept_id: "CAN-CON-000042"
+        canonical_name: "REST API"
+        has_bundle: true
+        evidence_record_count: 2
+        confidence_distribution: 
+          High: 2
+      - concept_id: "CAN-CON-000043"
+        canonical_name: "Risk Charge"
+        has_bundle: true
+        evidence_record_count: 21
+        confidence_distribution: 
+          High: 21
+      - concept_id: "CAN-CON-000044"
+        canonical_name: "Risk Factor"
+        has_bundle: true
+        evidence_record_count: 15
+        confidence_distribution: 
+          High: 15
+      - concept_id: "CAN-CON-000045"
+        canonical_name: "Risk Management"
+        has_bundle: true
+        evidence_record_count: 8
+        confidence_distribution: 
+          Low: 8
+      - concept_id: "CAN-CON-000046"
+        canonical_name: "Risk Weighted Assets"
+        has_bundle: true
+        evidence_record_count: 2
+        confidence_distribution: 
+          High: 2
+      - concept_id: "CAN-CON-000047"
+        canonical_name: "Sensitivity"
+        has_bundle: true
+        evidence_record_count: 29
+        confidence_distribution: 
+          High: 28
+          Medium: 1
+      - concept_id: "CAN-CON-000048"
+        canonical_name: "Statistics"
+        has_bundle: true
+        evidence_record_count: 27
+        confidence_distribution: 
+          Medium: 27
+      - concept_id: "CAN-CON-000049"
+        canonical_name: "Stress Testing"
+        has_bundle: true
+        evidence_record_count: 25
+        confidence_distribution: 
+          Medium: 23
+          High: 2
+      - concept_id: "CAN-CON-000050"
+        canonical_name: "Treasury"
+        has_bundle: true
+        evidence_record_count: 21
+        confidence_distribution: 
+          Medium: 21
+      - concept_id: "CAN-CON-000051"
+        canonical_name: "Value at Risk"
+        has_bundle: true
+        evidence_record_count: 9
+        confidence_distribution: 
+          Medium: 7
+          High: 2
+      - concept_id: "CAN-CON-000052"
+        canonical_name: "Volatility"
+        has_bundle: true
+        evidence_record_count: 21
+        confidence_distribution: 
+          High: 21
+      - concept_id: "CAN-CON-000053"
+        canonical_name: "Yield Curve"
+        has_bundle: true
+        evidence_record_count: 7
+        confidence_distribution: 
+          High: 7
+  retrieval_index_validation: 
+    concept_index.yaml: 
+      entries_checked: 98
+      broken_reference_count: 0
+      status: "PASS"
+    formula_index.yaml: 
+      entries_checked: 49
+      broken_reference_count: 0
+      status: "PASS"
+    regulation_index.yaml: 
+      entries_checked: 5
+      broken_reference_count: 0
+      status: "PASS"
+    document_index.yaml: 
+      entries_checked: 39
+      broken_reference_count: 0
+      status: "PASS"
+    domain_index.yaml: 
+      entries_checked: 17
+      broken_reference_count: 0
+      status: "PASS"
+    glossary_index.yaml: 
+      entries_checked: 36
+      broken_reference_count: 0
+      status: "PASS"
+  broken_retrieval_references: []
+  evidence_quality: 
+    traceable_records: 667
+    total_records: 667
+    non_empty_records: 667
+    duplicate_evidence_ids: []
+    duplicate_evidence_content_count: 0
+    explainable_query_results: 17
+  failure_detection: 
+    unsupported_concepts: []
+    duplicate_evidence: []
+    duplicate_evidence_content: []
+    queries_with_no_valid_result: []
+    ambiguous_query_results: []
+  final_verdict: "EVIDENCE ENGINE VALIDATED WITH OBSERVATIONS"

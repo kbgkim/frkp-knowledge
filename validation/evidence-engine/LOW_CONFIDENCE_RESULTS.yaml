@@ -1,0 +1,6 @@
+low_confidence_results: 
+  - query: "Expected Credit Loss"
+    canonical_concept: "CAN-CON-000016"
+    canonical_name: "Expected Credit Loss"
+    confidence_distribution: 
+      Low: 8
