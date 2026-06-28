@@ -1,0 +1,122 @@
+id: KC-000005
+original_path: "D:\\wrk\\juro\\FRTB\\Basel3_개정SA정리_20210616.pptx"
+relative_path: "FRTB\\Basel3_개정SA정리_20210616.pptx"
+filename: Basel3_개정SA정리_20210616.pptx
+extension: pptx
+size: 1208310
+last_modified: "2026-06-23T13:05:25+09:00"
+sha256: e737344552bcc233c2c256261b03288214637e2d8ef59e9dd8e49fb488350e81
+language: Korean/English
+estimated_domain:
+  - Basel III
+  - Basel
+  - FRTB
+  - Credit Risk
+estimated_category: Regulation
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "현행 표준방법 ( 바젤 2.5) 신표준방법 ( 바젤 3) 시장리스크 일반시장 리스크 개별리스크 금리 주식 FX 상품 부도 잔여 시장리스크 민감도기준 리스크 잔여리스크 Delta 리스크 부도리스크 Vega 리스크 Curvature 리스크 시장가격 변동 신용도 변동 (CSR) 1 신표준방법 기본구조 및 주요 부도리스크 자본부과량 신용위험에 따른 불연속부도리스크 (Jump-to-default-risk) 에 대한 자본량 잔여리스크 자본부과량 표준방법으로 모든 시장 리스크를 포착하지 못한다는 점을 고려 , 기타 잔여리스크에 대응하기 위해 도입한 자본량 2 민감도 기준 리스크 측정을 위해 리스크군 (Risk class), 리스크 요소 (Risk factor), 버킷 (Bucket), 리스크 포지션 (Risk position) 에 대한 정의가 필요함 . 16 민감도 기준 리스크 산출 과정 리스크 포지션의 리스크 요소별 민감도를 산출한 후 리스크 클래스별로 3 가지 금융시장 환경 변화 상관계수 시나리오를 반영한 버킷내 및 버킷간 리스크량을 산출하고 , 리스크군별 리스크량을 단순합산하여 최종 자본량을 산출함 ."
+  topics:
+    - "Basel II"
+    - "Basel III"
+    - "Credit Risk"
+    - "Default Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "P&L"
+    - "Pricing"
+    - "Residual Risk"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  concepts:
+    - "Capital Requirement"
+    - "Correlation"
+    - "Default"
+    - "Default Risk Charge"
+    - "Loss Given Default"
+    - "Market Data"
+    - "Portfolio"
+    - "Position"
+    - "Residual Risk Add-on"
+    - "Risk Charge"
+    - "Risk Factor"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+    - "Yield Curve"
+  formulas:
+    - expression: "LGD"
+      source: "keyword/formula candidate occurrence"
+    - expression: "AP = [ 기초준거자산잔액 – 트랜치손실시작 준거자산잔액 ] / 기초준거자산잔액 손실종료점 (Detachment point) : 해당 유동화 포지션의 트랜치에 의해 흡수 가능한 준거 포트폴리오의 최대 손실수준 DP = ["
+      source: "inline mathematical expression"
+    - expression: "risk = 𝑆 𝑐 : bucket c 의 모든 리스크요소에 대해 5 버킷 간 상관계수 Bucket 간 상관계수는 50% 적용 High/Medium/Low 3 가지 시나리오 상관계수를 각각 적용하여 3 가지 위험량을 계산 한"
+      source: "inline mathematical expression"
+    - expression: "Low =MAX( 50% * 2-100%, 50% * 75% ) = 37"
+      source: "inline mathematical expression"
+  symbols:
+    - "delta"
+    - "LGD"
+    - "sigma"
+    - "vega"
+  glossary:
+    - term: "Capital Requirement"
+      definition: "Minimum capital requirements for market risk (BCBS, rev."
+      source_document: "KC-000005"
+    - term: "Default"
+      definition: "부도리스크 자본부과량 신용위험에 따른 불연속부도리스크 (Jump-to-default-risk) 에 대한 자본량 잔여리스크 자본부과량 표준방법으로 모든 시장 리스크를 포착하지 못한다는 점을 고려 , 기타 잔여리스크에 대응하기 위해 도입한 자본량 2 민감도 기준 리스크 측정을 위해 리스크군 (Risk class), 리스크 요소 (Risk factor), 버킷 (Bucket), 리스크 포지션 (Risk position) 에 대한 정의가 필요함 ."
+      source_document: "KC-000005"
+    - term: "Market Risk"
+      definition: "Minimum capital requirements for market risk (BCBS, rev."
+      source_document: "KC-000005"
+    - term: "Position"
+      definition: "부도리스크 자본부과량 신용위험에 따른 불연속부도리스크 (Jump-to-default-risk) 에 대한 자본량 잔여리스크 자본부과량 표준방법으로 모든 시장 리스크를 포착하지 못한다는 점을 고려 , 기타 잔여리스크에 대응하기 위해 도입한 자본량 2 민감도 기준 리스크 측정을 위해 리스크군 (Risk class), 리스크 요소 (Risk factor), 버킷 (Bucket), 리스크 포지션 (Risk position) 에 대한 정의가 필요함 ."
+      source_document: "KC-000005"
+    - term: "Risk Factor"
+      definition: "부도리스크 자본부과량 신용위험에 따른 불연속부도리스크 (Jump-to-default-risk) 에 대한 자본량 잔여리스크 자본부과량 표준방법으로 모든 시장 리스크를 포착하지 못한다는 점을 고려 , 기타 잔여리스크에 대응하기 위해 도입한 자본량 2 민감도 기준 리스크 측정을 위해 리스크군 (Risk class), 리스크 요소 (Risk factor), 버킷 (Bucket), 리스크 포지션 (Risk position) 에 대한 정의가 필요함 ."
+      source_document: "KC-000005"
+    - term: "Volatility"
+      definition: "민감도 기준 리스크 Vega 리스크 민감도 𝑆 𝑘 = 𝑣𝑒𝑔𝑎 ∗ 𝑖𝑚𝑝𝑙𝑖𝑒𝑑 𝑣𝑜𝑙𝑎𝑡𝑖𝑙𝑖𝑡𝑦 = 𝜎 𝑉 𝑖 𝜕 𝜎 𝑖 ∙ 𝜎 𝑖 𝜎 𝑖 𝑉 𝑖 : 옵션 i 의 내재변동성 (implied volatility) : 변동성의 함수로 표현되는 옵션 i 의 평가금액 : 기초자산 변동성 변화에 따른 옵션가치의 변화 𝑆 𝑘 : Vega 리스크 민감도 𝑣𝑒𝑔𝑎 옵션 내재변동성은 기 정의한 vega 리스크 요소에 따라 하나 또는 둘 이상의 만기구간으로 배분되어야 함 아"
+      source_document: "KC-000005"
+  abbreviations:
+    - "ABS"
+    - "BCBS"
+    - "CLO"
+    - "CMBS"
+    - "CSR"
+    - "CTP"
+    - "FRTB"
+    - "FX"
+    - "GICS"
+    - "GIRR"
+    - "HY"
+    - "IG"
+    - "KRW"
+    - "LGD"
+    - "MTM"
+    - "NR"
+    - "P&L"
+    - "RMBS"
+    - "SA"
+  regulations:
+    - "Basel II"
+    - "Basel III"
+    - "FRTB"
+  organizations:
+    - "BCBS"
+    - "JURO"
+  domains:
+    - "Basel"
+    - "Basel III"
+    - "Credit Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "Mathematics"
+    - "Regulation"
+    - "Statistics"
+    - "Treasury"
+  difficulty: "Expert"
+  importance: "Critical"

@@ -1,0 +1,60 @@
+id: "KC-000018"
+source_document: "Market\\\\BNK_시장리스크_배치_운영자매뉴얼_v1.1_20200601.docx"
+summary: "시장 리스크 서버는 AP 서버와 평가요청 BATCH 처리를 위한 “ 공유폴더 ” 가 연결되어 있어야 하며, 해당 “ 공유폴더 ” 를 이용하여 평가 컨트롤러(Java Demon)가 분산 평가서버에 평가요청을 처리합니다. 시나리오 , 포트폴리오 , 평가모듈을 채워넣으면 , 해당 부분만 평가 를 수행합니다. 비워두면 모든 시나리오 및 포트폴리오에 대한 평가 를 수행 합니다"
+topics:
+  - "Expected Shortfall"
+  - "Java"
+  - "Market Risk"
+  - "P&L"
+  - "Pricing"
+  - "Sensitivity"
+  - "Statistics"
+  - "Stress Testing"
+  - "Treasury"
+  - "Value at Risk"
+concepts:
+  - "Batch Scheduler"
+  - "Correlation"
+  - "Default"
+  - "Historical Simulation"
+  - "Portfolio"
+  - "Position"
+  - "Risk Factor"
+  - "Sensitivity"
+  - "Stress Scenario"
+  - "Volatility"
+formulas:
+  - expression: "VaR"
+    source: "keyword/formula candidate occurrence"
+  - expression: "ES"
+    source: "keyword/formula candidate occurrence"
+symbols:
+  - "ES"
+  - "VaR"
+glossary:
+  - term: "Default"
+    definition: "RStudio UTF-8 설정 Tools > Global Options > Code > Saving Default text encoding = UTF-8 입력 JURO-Market 시스템 설치 C 드라이브 밑에 urosys 폴더를 생성하고 그 안에 openeyes 와 urosys.r.risk 를 복사 합니다."
+    source_document: "KC-000018"
+  - term: "Java"
+    definition: "시장 리스크 서버는 AP 서버와 평가요청 BATCH 처리를 위한 “ 공유폴더 ” 가 연결되어 있어야 하며, 해당 “ 공유폴더 ” 를 이용하여 평가 컨트롤러(Java Demon)가 분산 평가서버에 평가요청을 처리합니다."
+    source_document: "KC-000018"
+abbreviations:
+  - "ES"
+  - "VaR"
+  - "XML"
+regulations:
+  []
+organizations:
+  - "JURO"
+  - "UROSYS"
+domains:
+  - "Java"
+  - "Market Risk"
+  - "Statistics"
+  - "Stress Testing"
+  - "Treasury"
+difficulty: "Advanced"
+importance: "High"
+traceability:
+  metadata: "metadata/KC-000018.yaml"
+  text_index: "index/KC-000018.txt"

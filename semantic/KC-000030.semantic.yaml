@@ -1,0 +1,26 @@
+id: "KC-000030"
+source_document: "NCR\\\\채권 위험액 산출 구조 이해.pdf"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  - "NCR"
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  - "NCR"
+regulations:
+  - "NCR Regulation"
+organizations:
+  []
+domains:
+  []
+difficulty: "Introductory"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000030.yaml"
+  text_index: ''

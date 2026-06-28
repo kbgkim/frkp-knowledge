@@ -1,0 +1,60 @@
+id: KC-000021
+original_path: "D:\\wrk\\juro\\Market\\BNK_시장리스크_평가시스템_운영자매뉴얼_v1.0_20200526.docx"
+relative_path: "Market\\BNK_시장리스크_평가시스템_운영자매뉴얼_v1.0_20200526.docx"
+filename: BNK_시장리스크_평가시스템_운영자매뉴얼_v1.0_20200526.docx
+extension: docx
+size: 1844102
+last_modified: "2026-06-23T13:05:39+09:00"
+sha256: b7a198d186d650829de525551957e9d2914b143eca4ca20cad32df3051accc94
+language: Korean/English
+estimated_domain:
+  - IFRS 9
+estimated_category: Manual
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "배치 프로그램 관리 평가 배치 금리 구조화 상품을 평가하기 위한 Calibration Data(Kappa, Hull-White 변동성 ) 를 계산하는 배치이다. 실행 파일 위치 실행 명령어 oe.batch.sh [ 기준일: YYYYMMDD] [JOB ID] [User ID] 로그 관리 컨트롤러 로그 설정 설정 파일 위치 / r m s 로그 레벨 설정 <level value={level}> 로그 확인 로그 파일 위치 / rms / rms / oe /controller/bin/ nohup.out 평가 서버 로그 설정 설정 파일 위치 C :\\ openeys\\config\\log4net.xml 로그 레벨 설정 <l evel value = {level}> 예) <l evel value = “INFO”/> - Level 종류 : E RROR, WARN, INFO, DEBUG - 로그를 많이 출력하게 되면 성능의 저하가 발생할 수 있으므로 일반적으로 INFO 로 설정 로그 확인 로그 파일 위치 C :\\ o peneyes\\log\\server.log 시스템 운영참조 신규상품 추가 S tep 1. 첫줄은 factorCodes , 둘째줄부터 시나리오 값 00011 ScenarioSet 파일 형식 오류."
+  topics:
+    - "IFRS 9"
+    - "Market Risk"
+    - "Pricing"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+  concepts:
+    - "Batch Scheduler"
+    - "Correlation"
+    - "Default"
+    - "Parametric VaR"
+    - "Portfolio"
+    - "Position"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+  formulas:
+    []
+  symbols:
+    - "delta"
+  glossary:
+    - term: "Pricing"
+      definition: "Openeyes.Pricer.PricingEngine.KISP 프로젝트 Module 폴더에 KIS 모듈 복사 S tep 3."
+      source_document: "KC-000021"
+  abbreviations:
+    - "FX"
+    - "IFRS"
+    - "KIS"
+    - "XML"
+  regulations:
+    - "IFRS 9"
+  organizations:
+    - "JURO"
+  domains:
+    - "Credit Risk"
+    - "IFRS 9"
+    - "Market Risk"
+    - "Mathematics"
+    - "Regulation"
+    - "Statistics"
+  difficulty: "Intermediate"
+  importance: "High"

@@ -1,0 +1,443 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000043"
+  canonical_concept_name: "Risk Charge"
+  concept_summary: "Evidence bundle for Risk Charge; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000483"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "KC-000001.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "KC-000001 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000484"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "KC-000003.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "KC-000003 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000485"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000005"
+      source_document_path: "FRTB\\\\Basel3_개정SA정리_20210616.pptx"
+      section_or_location: "KC-000005.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000005.semantic.yaml"
+        graph_evidence: "KC-000005 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000486"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000006"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_배치프로그램사양서.docx"
+      section_or_location: "KC-000006.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000007"
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000006.semantic.yaml"
+        graph_evidence: "KC-000006 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000487"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000008"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+      section_or_location: "KC-000008.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000008.semantic.yaml"
+        graph_evidence: "KC-000008 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000488"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000010"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_운영자매뉴얼_v1.0.docx"
+      section_or_location: "KC-000010.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000010.semantic.yaml"
+        graph_evidence: "KC-000010 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000489"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000012"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_화면설계서_v1.0.xlsx"
+      section_or_location: "KC-000012.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000012.semantic.yaml"
+        graph_evidence: "KC-000012 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000490"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000013"
+      source_document_path: "FRTB\\\\WIB바젤III_설계_데이터매핑설계서_v0.105.xlsx"
+      section_or_location: "KC-000013.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000013.semantic.yaml"
+        graph_evidence: "KC-000013 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000491"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000014"
+      source_document_path: "FRTB\\\\WIB바젤III_설계_데이터매핑설계서(지주전송)_v0.100.xlsx"
+      section_or_location: "KC-000014.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000014.semantic.yaml"
+        graph_evidence: "KC-000014 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000492"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000015"
+      source_document_path: "Market\\\\130625_리스크_시장VaR_분석_요건정의서_V1.4_암호화해제.docx"
+      section_or_location: "KC-000015.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000015.semantic.yaml"
+        graph_evidence: "KC-000015 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000493"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "KC-000016.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "KC-000016 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000494"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000495"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000023"
+      source_document_path: "Market\\\\BNK_시장VaR 업무요건정의서_v1.2_20200413.docx"
+      section_or_location: "KC-000023.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000023.semantic.yaml"
+        graph_evidence: "KC-000023 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000496"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000025"
+      source_document_path: "Market\\\\BNKS-RM-DS-10900_시장_R프로그램사양서(배치)_v0.1.docx"
+      section_or_location: "KC-000025.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Formula"
+      traceability:
+        semantic_artifact: "semantic/KC-000025.semantic.yaml"
+        graph_evidence: "KC-000025 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000497"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000031"
+      source_document_path: "NCR\\\\한국 증권사_감독규제_및_보고_체계.docx"
+      section_or_location: "KC-000031.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000031.semantic.yaml"
+        graph_evidence: "KC-000031 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000498"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000032"
+      source_document_path: "NCR\\\\한국 NCR_산출체계와_과정.pptx"
+      section_or_location: "KC-000032.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000032.semantic.yaml"
+        graph_evidence: "KC-000032 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000499"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000033"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-별첨_BNK OTC 추가상품.docx"
+      section_or_location: "KC-000033.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000033.semantic.yaml"
+        graph_evidence: "KC-000033 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000500"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000034"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-v1.0.docx"
+      section_or_location: "KC-000034.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000034.semantic.yaml"
+        graph_evidence: "KC-000034 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000501"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000036"
+      source_document_path: "NCR\\\\MIRAE_리스크관리시스템재구축_NCR_요건정의서_v1.3.10b.docx"
+      section_or_location: "KC-000036.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000036.semantic.yaml"
+        graph_evidence: "KC-000036 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000502"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000037"
+      source_document_path: "NCR\\\\NCR_배치사양서_통합_v1.0.docx"
+      section_or_location: "KC-000037.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000037.semantic.yaml"
+        graph_evidence: "KC-000037 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000503"
+      canonical_concept: "CAN-CON-000043"
+      canonical_concept_name: "Risk Charge"
+      source_document: "KC-000042"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_제품소개자료_230512.pptx"
+      section_or_location: "KC-000042.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000042.semantic.yaml"
+        graph_evidence: "KC-000042 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas:
+    - "CAN-FOR-000007"
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000005"
+    - "KC-000006"
+    - "KC-000008"
+    - "KC-000010"
+    - "KC-000012"
+    - "KC-000013"
+    - "KC-000014"
+    - "KC-000015"
+    - "KC-000016"
+    - "KC-000022"
+    - "KC-000023"
+    - "KC-000025"
+    - "KC-000031"
+    - "KC-000032"
+    - "KC-000033"
+    - "KC-000034"
+    - "KC-000036"
+    - "KC-000037"
+    - "KC-000042"
+  related_glossary: []
+  relationship_path:
+    - "Risk Charge"
+    - "Canonical Concept CAN-CON-000043"
+    - "Formula CAN-FOR-000007"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000005"
+    - "Supporting Document KC-000006"
+    - "Supporting Document KC-000008"
+    - "Supporting Document KC-000010"
+    - "Supporting Document KC-000012"
+    - "Supporting Document KC-000013"
+    - "Supporting Document KC-000014"
+    - "Supporting Document KC-000015"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000022"
+    - "KC-000001 --contains--> Risk Charge"
+    - "Risk Charge --referenced_by--> KC-000001"
+    - "Risk Charge --belongs_to--> Credit Risk"
+    - "Risk Charge --belongs_to--> FRTB"
+    - "Risk Charge --belongs_to--> Java"
+    - "Risk Charge --belongs_to--> Market Risk"
+    - "Risk Charge --belongs_to--> Mathematics"
+    - "Risk Charge --belongs_to--> Operational Risk"
+  confidence_score: "High"

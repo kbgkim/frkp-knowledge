@@ -1,0 +1,169 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000038"
+  canonical_concept_name: "Probability of Default"
+  concept_summary: "Evidence bundle for Probability of Default; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000438"
+      canonical_concept: "CAN-CON-000038"
+      canonical_concept_name: "Probability of Default"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "KC-000016.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000031"
+        - "CAN-FOR-000034"
+        - "PD"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "PD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "KC-000016 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000439"
+      canonical_concept: "CAN-CON-000038"
+      canonical_concept_name: "Probability of Default"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000031"
+        - "CAN-FOR-000034"
+        - "CAN-FOR-000046"
+        - "PD"
+        - "t =μ S t dt+σ S t dW 상승 폭 ( u ) 과 하락 폭 ( d) 및 대 응 하는 확률 ( pu, pd ) 은 다음과 같이 주어짐"
+        - "u= e σ dt d=1/u 단, 여기서 dt=T/N 임 * T : 만기까지의 기간 * N : 노드의 개수 pu= e μdt -d u-d pd=1-pu ( 2 단계 ) 상승 및 하락 폭을 사용하여 원하는 만기 시점까지 각"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000029"
+      supporting_mathematical_concepts:
+        - "PD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000440"
+      canonical_concept: "CAN-CON-000038"
+      canonical_concept_name: "Probability of Default"
+      source_document: "KC-000033"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-별첨_BNK OTC 추가상품.docx"
+      section_or_location: "KC-000033.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000011"
+        - "CAN-FOR-000034"
+        - "L = CE x PD x LG D 무형자산 대상자산 계정과목코드 항목명 600000000 자산 617700000 I X"
+        - "PD"
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "PD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000033.semantic.yaml"
+        graph_evidence: "KC-000033 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000441"
+      canonical_concept: "CAN-CON-000038"
+      canonical_concept_name: "Probability of Default"
+      source_document: "KC-000034"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-v1.0.docx"
+      section_or_location: "KC-000034.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000011"
+        - "CAN-FOR-000034"
+        - "EL = CE x PD x LGD 변수 적용방안 CE (Credit Exposure) CCE + PFE CCE (Counterparty Credit Exposure) 대체비용 - 가상채권 대체비용 평가금액 (IFRS) + 경"
+        - "PD"
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "PD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000034.semantic.yaml"
+        graph_evidence: "KC-000034 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000442"
+      canonical_concept: "CAN-CON-000038"
+      canonical_concept_name: "Probability of Default"
+      source_document: "KC-000037"
+      source_document_path: "NCR\\\\NCR_배치사양서_통합_v1.0.docx"
+      section_or_location: "KC-000037.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000034"
+        - "PD"
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "PD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000037.semantic.yaml"
+        graph_evidence: "KC-000037 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts:
+    - "Credit Risk"
+  related_formulas:
+    - "CAN-FOR-000011"
+    - "CAN-FOR-000031"
+    - "CAN-FOR-000034"
+    - "CAN-FOR-000046"
+    - "EL = CE x PD x LGD 변수 적용방안 CE (Credit Exposure) CCE + PFE CCE (Counterparty Credit Exposure) 대체비용 - 가상채권 대체비용 평가금액 (IFRS) + 경"
+    - "L = CE x PD x LG D 무형자산 대상자산 계정과목코드 항목명 600000000 자산 617700000 I X"
+    - "PD"
+    - "t =μ S t dt+σ S t dW 상승 폭 ( u ) 과 하락 폭 ( d) 및 대 응 하는 확률 ( pu, pd ) 은 다음과 같이 주어짐"
+    - "u= e σ dt d=1/u 단, 여기서 dt=T/N 임 * T : 만기까지의 기간 * N : 노드의 개수 pu= e μdt -d u-d pd=1-pu ( 2 단계 ) 상승 및 하락 폭을 사용하여 원하는 만기 시점까지 각"
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000016"
+    - "KC-000022"
+    - "KC-000033"
+    - "KC-000034"
+    - "KC-000037"
+  related_glossary:
+    - "CAN-GLO-000029"
+  relationship_path:
+    - "Probability of Default"
+    - "Canonical Concept CAN-CON-000038"
+    - "Formula CAN-FOR-000011"
+    - "Formula CAN-FOR-000031"
+    - "Formula CAN-FOR-000034"
+    - "Formula CAN-FOR-000046"
+    - "Formula EL = CE x PD x LGD 변수 적용방안 CE (Credit Exposure) CCE + PFE CCE (Counterparty Credit Exposure) 대체비용 - 가상채권 대체비용 평가금액 (IFRS) + 경"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000033"
+    - "Supporting Document KC-000034"
+    - "Supporting Document KC-000037"
+    - "PD --equivalent_to--> Probability of Default"
+    - "KC-000016 --contains--> Probability of Default"
+    - "Probability of Default --referenced_by--> KC-000016"
+    - "Probability of Default --belongs_to--> Credit Risk"
+    - "Probability of Default --belongs_to--> Market Risk"
+    - "Probability of Default --belongs_to--> Mathematics"
+    - "Probability of Default --belongs_to--> Optimization"
+    - "Probability of Default --belongs_to--> Regulation"
+  confidence_score: "High"

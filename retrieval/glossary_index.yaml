@@ -1,0 +1,543 @@
+glossary_index:
+  - glossary_id: "CAN-GLO-000001"
+    glossary_term: "Backtesting"
+    lookup_terms:
+      - "Backtesting"
+    related_concept: "CAN-CON-000001"
+    source_documents:
+      - "KC-000016"
+    evidence_records:
+      - "EVD-000002"
+  - glossary_id: "CAN-GLO-000002"
+    glossary_term: "Basel II"
+    lookup_terms:
+      - "Basel II"
+    related_concept: "CAN-CON-000003"
+    source_documents:
+      - "KC-000003"
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000016"
+      - "EVD-000022"
+  - glossary_id: "CAN-GLO-000003"
+    glossary_term: "Basel III"
+    lookup_terms:
+      - "Basel III"
+    related_concept: "CAN-CON-000004"
+    source_documents:
+      - "KC-000003"
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000025"
+      - "EVD-000032"
+  - glossary_id: "CAN-GLO-000004"
+    glossary_term: "Capital Ratio"
+    lookup_terms:
+      - "Capital Ratio"
+    related_concept: "CAN-CON-000006"
+    source_documents:
+      - "KC-000003"
+      - "KC-000016"
+    evidence_records:
+      - "EVD-000054"
+      - "EVD-000055"
+  - glossary_id: "CAN-GLO-000005"
+    glossary_term: "Capital Requirement"
+    lookup_terms:
+      - "Capital Requirement"
+    related_concept: "CAN-CON-000007"
+    source_documents:
+      - "KC-000005"
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000063"
+      - "EVD-000067"
+  - glossary_id: "CAN-GLO-000006"
+    glossary_term: "Correlation"
+    lookup_terms:
+      - "Correlation"
+    related_concept: "CAN-CON-000008"
+    source_documents:
+      - "KC-000003"
+      - "KC-000022"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000070"
+      - "EVD-000082"
+      - "EVD-000086"
+  - glossary_id: "CAN-GLO-000007"
+    glossary_term: "Credit Risk"
+    lookup_terms:
+      - "Credit Risk"
+    related_concept: "CAN-CON-000010"
+    source_documents:
+      - "KC-000022"
+      - "KC-000037"
+    evidence_records:
+      - "EVD-000110"
+      - "EVD-000117"
+  - glossary_id: "CAN-GLO-000008"
+    glossary_term: "Credit Valuation Adjustment"
+    lookup_terms:
+      - "Credit Valuation Adjustment"
+      - "CVA"
+    related_concept: "CAN-CON-000011"
+    source_documents:
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000119"
+  - glossary_id: "CAN-GLO-000009"
+    glossary_term: "Data Loader"
+    lookup_terms:
+      - "Data Loader"
+      - "ETL"
+      - "Extract Transform Load"
+    related_concept: "CAN-CON-000012"
+    source_documents:
+      - "KC-000001"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000120"
+      - "EVD-000127"
+  - glossary_id: "CAN-GLO-000010"
+    glossary_term: "Default"
+    lookup_terms:
+      - "Default"
+    related_concept: "CAN-CON-000013"
+    source_documents:
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000018"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000036"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000129"
+      - "EVD-000130"
+      - "EVD-000131"
+      - "EVD-000133"
+      - "EVD-000134"
+      - "EVD-000140"
+      - "EVD-000143"
+      - "EVD-000144"
+      - "EVD-000148"
+      - "EVD-000150"
+  - glossary_id: "CAN-GLO-000011"
+    glossary_term: "Default Risk"
+    lookup_terms:
+      - "Default Risk"
+    related_concept: "CAN-CON-000014"
+    source_documents:
+      - "KC-000003"
+    evidence_records:
+      - "EVD-000152"
+  - glossary_id: "CAN-GLO-000012"
+    glossary_term: "Expected Shortfall"
+    lookup_terms:
+      - "Conditional Value at Risk"
+      - "CVaR"
+      - "ES"
+      - "ETL"
+      - "Expected Shortfall"
+      - "Expected Tail Loss"
+      - "Tail Risk Measure"
+    related_concept: "CAN-CON-000017"
+    source_documents:
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000025"
+    evidence_records:
+      - "EVD-000184"
+      - "EVD-000187"
+      - "EVD-000189"
+  - glossary_id: "CAN-GLO-000013"
+    glossary_term: "Fundamental Review of the Trading Book"
+    lookup_terms:
+      - "Basel III Market Risk"
+      - "FRTB"
+      - "FRTB Market Risk"
+      - "Fundamental Review of the Trading Book"
+    related_concept: "CAN-CON-000019"
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000006"
+      - "KC-000007"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000040"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000193"
+      - "EVD-000194"
+      - "EVD-000197"
+      - "EVD-000198"
+      - "EVD-000199"
+      - "EVD-000200"
+      - "EVD-000201"
+      - "EVD-000203"
+      - "EVD-000204"
+      - "EVD-000210"
+      - "EVD-000211"
+  - glossary_id: "CAN-GLO-000014"
+    glossary_term: "Historical Simulation"
+    lookup_terms:
+      - "Historical Simulation"
+    related_concept: "CAN-CON-000020"
+    source_documents:
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000023"
+    evidence_records:
+      - "EVD-000213"
+      - "EVD-000214"
+      - "EVD-000218"
+  - glossary_id: "CAN-GLO-000015"
+    glossary_term: "Java"
+    lookup_terms:
+      - "Java"
+    related_concept: "CAN-CON-000022"
+    source_documents:
+      - "KC-000007"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000017"
+      - "KC-000018"
+      - "KC-000037"
+      - "KC-000041"
+    evidence_records:
+      - "EVD-000222"
+      - "EVD-000223"
+      - "EVD-000224"
+      - "EVD-000225"
+      - "EVD-000226"
+      - "EVD-000227"
+      - "EVD-000228"
+  - glossary_id: "CAN-GLO-000016"
+    glossary_term: "Liquidity Horizon"
+    lookup_terms:
+      - "Liquidity Horizon"
+    related_concept: "CAN-CON-000023"
+    source_documents:
+      - "KC-000016"
+    evidence_records:
+      - "EVD-000229"
+  - glossary_id: "CAN-GLO-000017"
+    glossary_term: "Loss Given Default"
+    lookup_terms:
+      - "부도시손실률"
+      - "LGD"
+      - "Loss Given Default"
+    related_concept: "CAN-CON-000024"
+    source_documents:
+      - "KC-000003"
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000230"
+      - "EVD-000236"
+  - glossary_id: "CAN-GLO-000018"
+    glossary_term: "Margin"
+    lookup_terms:
+      - "Margin"
+    related_concept: "CAN-CON-000025"
+    source_documents:
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000025"
+    evidence_records:
+      - "EVD-000239"
+      - "EVD-000240"
+      - "EVD-000242"
+  - glossary_id: "CAN-GLO-000019"
+    glossary_term: "Market Data"
+    lookup_terms:
+      - "Market Data"
+    related_concept: "CAN-CON-000026"
+    source_documents:
+      - "KC-000001"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000023"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000246"
+      - "EVD-000252"
+      - "EVD-000253"
+      - "EVD-000256"
+      - "EVD-000264"
+  - glossary_id: "CAN-GLO-000020"
+    glossary_term: "Market Risk"
+    lookup_terms:
+      - "Market Risk"
+    related_concept: "CAN-CON-000027"
+    source_documents:
+      - "KC-000001"
+      - "KC-000005"
+      - "KC-000022"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000265"
+      - "EVD-000267"
+      - "EVD-000283"
+      - "EVD-000292"
+  - glossary_id: "CAN-GLO-000021"
+    glossary_term: "Monte Carlo Simulation"
+    lookup_terms:
+      - "Monte Carlo Simulation"
+    related_concept: "CAN-CON-000030"
+    source_documents:
+      - "KC-000022"
+      - "KC-000023"
+    evidence_records:
+      - "EVD-000309"
+      - "EVD-000310"
+  - glossary_id: "CAN-GLO-000022"
+    glossary_term: "Net Capital Ratio"
+    lookup_terms:
+      - "순자본비율"
+      - "영업용순자본비율"
+      - "NCR"
+      - "Net Capital Ratio"
+      - "Net Capital Ratio Regulation Metric"
+      - "Net Operating Capital Ratio"
+    related_concept: "CAN-CON-000031"
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000311"
+      - "EVD-000312"
+      - "EVD-000313"
+      - "EVD-000314"
+      - "EVD-000315"
+      - "EVD-000320"
+      - "EVD-000321"
+      - "EVD-000322"
+      - "EVD-000323"
+      - "EVD-000325"
+      - "EVD-000326"
+      - "EVD-000329"
+  - glossary_id: "CAN-GLO-000023"
+    glossary_term: "Operational Risk"
+    lookup_terms:
+      - "Operational Risk"
+    related_concept: "CAN-CON-000032"
+    source_documents:
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000332"
+  - glossary_id: "CAN-GLO-000024"
+    glossary_term: "Over-the-Counter Derivatives"
+    lookup_terms:
+      - "OTC"
+      - "OTC Derivatives"
+      - "Over-the-Counter Derivatives"
+    related_concept: "CAN-CON-000033"
+    source_documents:
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000346"
+  - glossary_id: "CAN-GLO-000025"
+    glossary_term: "Parametric VaR"
+    lookup_terms:
+      - "Parametric VaR"
+    related_concept: "CAN-CON-000034"
+    source_documents:
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+    evidence_records:
+      - "EVD-000355"
+      - "EVD-000356"
+      - "EVD-000358"
+      - "EVD-000359"
+      - "EVD-000360"
+  - glossary_id: "CAN-GLO-000026"
+    glossary_term: "Portfolio"
+    lookup_terms:
+      - "Portfolio"
+    related_concept: "CAN-CON-000035"
+    source_documents:
+      - "KC-000015"
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000371"
+      - "EVD-000376"
+  - glossary_id: "CAN-GLO-000027"
+    glossary_term: "Position"
+    lookup_terms:
+      - "Position"
+    related_concept: "CAN-CON-000036"
+    source_documents:
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000013"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000037"
+    evidence_records:
+      - "EVD-000385"
+      - "EVD-000386"
+      - "EVD-000393"
+      - "EVD-000395"
+      - "EVD-000396"
+      - "EVD-000401"
+      - "EVD-000402"
+      - "EVD-000409"
+  - glossary_id: "CAN-GLO-000028"
+    glossary_term: "Pricing"
+    lookup_terms:
+      - "Pricing"
+    related_concept: "CAN-CON-000037"
+    source_documents:
+      - "KC-000001"
+      - "KC-000015"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000412"
+      - "EVD-000420"
+      - "EVD-000425"
+      - "EVD-000426"
+      - "EVD-000427"
+      - "EVD-000428"
+      - "EVD-000437"
+  - glossary_id: "CAN-GLO-000029"
+    glossary_term: "Probability of Default"
+    lookup_terms:
+      - "부도확률"
+      - "Default Probability"
+      - "PD"
+      - "Probability of Default"
+    related_concept: "CAN-CON-000038"
+    source_documents:
+      - "KC-000022"
+    evidence_records:
+      - "EVD-000439"
+  - glossary_id: "CAN-GLO-000030"
+    glossary_term: "Profit and Loss"
+    lookup_terms:
+      - "P&L"
+      - "PnL"
+      - "Profit and Loss"
+    related_concept: "CAN-CON-000039"
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000016"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000443"
+      - "EVD-000444"
+      - "EVD-000451"
+      - "EVD-000462"
+  - glossary_id: "CAN-GLO-000031"
+    glossary_term: "REST API"
+    lookup_terms:
+      - "API"
+      - "Application Programming Interface"
+      - "REST"
+      - "REST API"
+    related_concept: "CAN-CON-000042"
+    source_documents:
+      - "KC-000001"
+      - "KC-000042"
+    evidence_records:
+      - "EVD-000481"
+      - "EVD-000482"
+  - glossary_id: "CAN-GLO-000032"
+    glossary_term: "Risk Factor"
+    lookup_terms:
+      - "Risk Factor"
+    related_concept: "CAN-CON-000044"
+    source_documents:
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000023"
+    evidence_records:
+      - "EVD-000505"
+      - "EVD-000506"
+      - "EVD-000508"
+      - "EVD-000509"
+      - "EVD-000513"
+  - glossary_id: "CAN-GLO-000033"
+    glossary_term: "Sensitivity"
+    lookup_terms:
+      - "Sensitivity"
+    related_concept: "CAN-CON-000047"
+    source_documents:
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000025"
+      - "KC-000037"
+    evidence_records:
+      - "EVD-000539"
+      - "EVD-000540"
+      - "EVD-000547"
+      - "EVD-000554"
+  - glossary_id: "CAN-GLO-000034"
+    glossary_term: "Stress Testing"
+    lookup_terms:
+      - "Stress Scenario"
+      - "Stress Test"
+      - "Stress Testing"
+    related_concept: "CAN-CON-000049"
+    source_documents:
+      - "KC-000015"
+      - "KC-000023"
+    evidence_records:
+      - "EVD-000595"
+      - "EVD-000602"
+  - glossary_id: "CAN-GLO-000035"
+    glossary_term: "Value at Risk"
+    lookup_terms:
+      - "Market VaR"
+      - "Value at Risk"
+      - "VaR"
+      - "VAR"
+    related_concept: "CAN-CON-000051"
+    source_documents:
+      - "KC-000015"
+      - "KC-000023"
+    evidence_records:
+      - "EVD-000632"
+      - "EVD-000637"
+  - glossary_id: "CAN-GLO-000036"
+    glossary_term: "Volatility"
+    lookup_terms:
+      - "Volatility"
+    related_concept: "CAN-CON-000052"
+    source_documents:
+      - "KC-000005"
+      - "KC-000015"
+      - "KC-000023"
+    evidence_records:
+      - "EVD-000642"
+      - "EVD-000646"
+      - "EVD-000652"

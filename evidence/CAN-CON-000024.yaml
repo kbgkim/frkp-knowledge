@@ -1,0 +1,251 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000024"
+  canonical_concept_name: "Loss Given Default"
+  concept_summary: "Evidence bundle for Loss Given Default; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000230"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "KC-000003.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000017"
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "KC-000003 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000231"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000005"
+      source_document_path: "FRTB\\\\Basel3_개정SA정리_20210616.pptx"
+      section_or_location: "KC-000005.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000005.semantic.yaml"
+        graph_evidence: "KC-000005 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000232"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000008"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+      section_or_location: "KC-000008.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000008.semantic.yaml"
+        graph_evidence: "KC-000008 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000233"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000011"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_테이블정의서_v1.0.xlsx"
+      section_or_location: "KC-000011.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000011.semantic.yaml"
+        graph_evidence: "KC-000011 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000234"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000012"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_화면설계서_v1.0.xlsx"
+      section_or_location: "KC-000012.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000012.semantic.yaml"
+        graph_evidence: "KC-000012 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000235"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000014"
+      source_document_path: "FRTB\\\\WIB바젤III_설계_데이터매핑설계서(지주전송)_v0.100.xlsx"
+      section_or_location: "KC-000014.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000014.semantic.yaml"
+        graph_evidence: "KC-000014 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000236"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000017"
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000237"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000034"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-v1.0.docx"
+      section_or_location: "KC-000034.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000011"
+        - "CAN-FOR-000025"
+        - "EL = CE x PD x LGD 변수 적용방안 CE (Credit Exposure) CCE + PFE CCE (Counterparty Credit Exposure) 대체비용 - 가상채권 대체비용 평가금액 (IFRS) + 경"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000034.semantic.yaml"
+        graph_evidence: "KC-000034 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000238"
+      canonical_concept: "CAN-CON-000024"
+      canonical_concept_name: "Loss Given Default"
+      source_document: "KC-000037"
+      source_document_path: "NCR\\\\NCR_배치사양서_통합_v1.0.docx"
+      section_or_location: "KC-000037.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000025"
+        - "LGD"
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts:
+        - "LGD"
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000037.semantic.yaml"
+        graph_evidence: "KC-000037 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts:
+    - "Credit Risk"
+  related_formulas:
+    - "CAN-FOR-000011"
+    - "CAN-FOR-000025"
+    - "EL = CE x PD x LGD 변수 적용방안 CE (Credit Exposure) CCE + PFE CCE (Counterparty Credit Exposure) 대체비용 - 가상채권 대체비용 평가금액 (IFRS) + 경"
+    - "LGD"
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000003"
+    - "KC-000005"
+    - "KC-000008"
+    - "KC-000011"
+    - "KC-000012"
+    - "KC-000014"
+    - "KC-000022"
+    - "KC-000034"
+    - "KC-000037"
+  related_glossary:
+    - "CAN-GLO-000017"
+  relationship_path:
+    - "Loss Given Default"
+    - "Canonical Concept CAN-CON-000024"
+    - "Formula CAN-FOR-000011"
+    - "Formula CAN-FOR-000025"
+    - "Formula EL = CE x PD x LGD 변수 적용방안 CE (Credit Exposure) CCE + PFE CCE (Counterparty Credit Exposure) 대체비용 - 가상채권 대체비용 평가금액 (IFRS) + 경"
+    - "Formula LGD"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000005"
+    - "Supporting Document KC-000008"
+    - "Supporting Document KC-000011"
+    - "Supporting Document KC-000012"
+    - "Supporting Document KC-000014"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000034"
+    - "Supporting Document KC-000037"
+    - "KC-000003 --contains--> Loss Given Default"
+    - "Loss Given Default --referenced_by--> KC-000003"
+    - "Loss Given Default --belongs_to--> Basel"
+    - "Loss Given Default --belongs_to--> Basel II"
+    - "Loss Given Default --belongs_to--> Basel III"
+    - "Loss Given Default --belongs_to--> Credit Risk"
+    - "Loss Given Default --belongs_to--> FRTB"
+    - "Loss Given Default --belongs_to--> Market Risk"
+  confidence_score: "High"

@@ -1,0 +1,77 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000042"
+  canonical_concept_name: "REST API"
+  concept_summary: "Evidence bundle for REST API; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000481"
+      canonical_concept: "CAN-CON-000042"
+      canonical_concept_name: "REST API"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "KC-000001.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000030"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000031"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "KC-000001 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000482"
+      canonical_concept: "CAN-CON-000042"
+      canonical_concept_name: "REST API"
+      source_document: "KC-000042"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_제품소개자료_230512.pptx"
+      section_or_location: "KC-000042.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000030"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000031"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000042.semantic.yaml"
+        graph_evidence: "KC-000042 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas:
+    - "CAN-FOR-000030"
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000042"
+  related_glossary:
+    - "CAN-GLO-000031"
+  relationship_path:
+    - "REST API"
+    - "Canonical Concept CAN-CON-000042"
+    - "Formula CAN-FOR-000030"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000042"
+    - "KC-000001 --contains--> REST API"
+    - "REST API --referenced_by--> KC-000001"
+    - "REST API --belongs_to--> Credit Risk"
+    - "REST API --belongs_to--> FRTB"
+    - "REST API --belongs_to--> Java"
+    - "REST API --belongs_to--> Market Risk"
+    - "REST API --belongs_to--> Mathematics"
+    - "REST API --belongs_to--> Operational Risk"
+  confidence_score: "High"

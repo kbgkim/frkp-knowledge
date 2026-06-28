@@ -1,0 +1,83 @@
+id: KC-000008
+original_path: "D:\\wrk\\juro\\FRTB\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+relative_path: "FRTB\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+filename: WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx
+extension: docx
+size: 21855415
+last_modified: "2026-06-23T13:05:25+09:00"
+sha256: a5f233154dfa12f4a8723f940f25a525096ba346fafd125bc21117607fa9a351
+language: Korean/English
+estimated_domain:
+  - FRTB
+  - Credit Risk
+estimated_category: Regulation
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "2장에서는, FRTB 애플리케이션 에서 산출된 표준방법 시장리스크 메트릭을 민감도기준 리스크, 부도리스크 및 잔여리스크 등 3 개 영역으로 나누어서 조회하는 기능을 기술합니다. [ Figure STYLEREF 1 \\s 1 SEQ Figure \\* ARABIC \\s 1 4 ] 화면 잠금 시장리스크 이 장에서는 바젤I II 표준방법 시장 위험액을 구성하는 민감도기준 리스크, 부도리스크 및 잔여리스크를 포트폴리오 별, 버킷별 및 편입 포지션별로 조회하는 기능을 기술합니다. 시장리스크 규제자본을 의미하는 총리스크는 민감도기준 리스크, 부도리스크 및 잔여리스크 등 3 개 리스크 금액을 단순 합산한 금액 으로 산출됩니다."
+  topics:
+    - "Counterparty Credit Risk"
+    - "Credit Risk"
+    - "Default Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "P&L"
+    - "Pricing"
+    - "Residual Risk"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  concepts:
+    - "Batch Scheduler"
+    - "Capital Requirement"
+    - "Correlation"
+    - "Default"
+    - "Default Risk Charge"
+    - "Loss Given Default"
+    - "Market Data"
+    - "Portfolio"
+    - "Position"
+    - "Residual Risk Add-on"
+    - "Risk Charge"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+  formulas:
+    - expression: "LGD"
+      source: "keyword/formula candidate occurrence"
+    - expression: "a= b+c+d ) 바젤I II 표준방법 시장리스크 규제자본금액 민감도기준 리스크, 부도리스크, 잔여리스크 합산금액 민감도기준 리스크( b) 민감도기반 규제자본금액 하위 7 개 리스크군에 대해서 산출된 델타, 베가, 커버"
+      source: "inline mathematical expression"
+  symbols:
+    - "LGD"
+  glossary:
+    - term: "FRTB"
+      definition: "우리투자증권 사용자 매뉴얼 리스크관리 시스템 고도화 (FRTB) 유로인스트루먼츠 v 1 ."
+      source_document: "KC-000008"
+  abbreviations:
+    - "CSR"
+    - "CTP"
+    - "DRC"
+    - "FRTB"
+    - "FX"
+    - "GIRR"
+    - "LGD"
+    - "RRAO"
+    - "SA"
+  regulations:
+    - "FRTB"
+    - "Korean Financial Supervisory Regulation"
+  organizations:
+    - "FSS"
+    - "JURO"
+    - "UROSYS"
+  domains:
+    - "Credit Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "Regulation"
+    - "Statistics"
+    - "Treasury"
+  difficulty: "Advanced"
+  importance: "Critical"

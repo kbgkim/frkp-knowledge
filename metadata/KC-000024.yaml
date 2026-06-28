@@ -1,0 +1,37 @@
+id: KC-000024
+original_path: "D:\\wrk\\juro\\Market\\BNKS-RM-DS-10800 시장_프로그램 목록_v0.1.xls"
+relative_path: "Market\\BNKS-RM-DS-10800 시장_프로그램 목록_v0.1.xls"
+filename: BNKS-RM-DS-10800 시장_프로그램 목록_v0.1.xls
+extension: xls
+size: 181760
+last_modified: "2026-06-23T13:05:39+09:00"
+sha256: 7a692338c8ba8178c4501409467f8c2f297c81e9d5fe6e6336e1cb50c544491f
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Spreadsheet
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    []
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    []
+  regulations:
+    []
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Low"

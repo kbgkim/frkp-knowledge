@@ -1,0 +1,37 @@
+id: KC-000030
+original_path: "D:\\wrk\\juro\\NCR\\채권 위험액 산출 구조 이해.pdf"
+relative_path: "NCR\\채권 위험액 산출 구조 이해.pdf"
+filename: 채권 위험액 산출 구조 이해.pdf
+extension: pdf
+size: 349098
+last_modified: "2026-06-26T10:10:46+09:00"
+sha256: 644a9e55371ab3de420930e989888497ec3255d7cff468782be5194f80a695a7
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Document
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    - "NCR"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "NCR"
+  regulations:
+    - "NCR Regulation"
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Critical"

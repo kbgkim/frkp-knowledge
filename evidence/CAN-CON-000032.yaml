@@ -1,0 +1,236 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000032"
+  canonical_concept_name: "Operational Risk"
+  concept_summary: "Evidence bundle for Operational Risk; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000330"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "KC-000001.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "KC-000001 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000331"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "KC-000003.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "KC-000003 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000332"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000023"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000333"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000023"
+      source_document_path: "Market\\\\BNK_시장VaR 업무요건정의서_v1.2_20200413.docx"
+      section_or_location: "KC-000023.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000023.semantic.yaml"
+        graph_evidence: "KC-000023 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000334"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000031"
+      source_document_path: "NCR\\\\한국 증권사_감독규제_및_보고_체계.docx"
+      section_or_location: "KC-000031.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000031.semantic.yaml"
+        graph_evidence: "KC-000031 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000335"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000032"
+      source_document_path: "NCR\\\\한국 NCR_산출체계와_과정.pptx"
+      section_or_location: "KC-000032.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000032.semantic.yaml"
+        graph_evidence: "KC-000032 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000336"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000034"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-v1.0.docx"
+      section_or_location: "KC-000034.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000034.semantic.yaml"
+        graph_evidence: "KC-000034 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000337"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000036"
+      source_document_path: "NCR\\\\MIRAE_리스크관리시스템재구축_NCR_요건정의서_v1.3.10b.docx"
+      section_or_location: "KC-000036.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000036.semantic.yaml"
+        graph_evidence: "KC-000036 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000338"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000037"
+      source_document_path: "NCR\\\\NCR_배치사양서_통합_v1.0.docx"
+      section_or_location: "KC-000037.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000037.semantic.yaml"
+        graph_evidence: "KC-000037 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000339"
+      canonical_concept: "CAN-CON-000032"
+      canonical_concept_name: "Operational Risk"
+      source_document: "KC-000042"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_제품소개자료_230512.pptx"
+      section_or_location: "KC-000042.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000042.semantic.yaml"
+        graph_evidence: "KC-000042 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000022"
+    - "KC-000023"
+    - "KC-000031"
+    - "KC-000032"
+    - "KC-000034"
+    - "KC-000036"
+    - "KC-000037"
+    - "KC-000042"
+  related_glossary:
+    - "CAN-GLO-000023"
+  relationship_path:
+    - "Operational Risk"
+    - "Canonical Concept CAN-CON-000032"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000023"
+    - "Supporting Document KC-000031"
+    - "Supporting Document KC-000032"
+    - "Supporting Document KC-000034"
+    - "Supporting Document KC-000036"
+    - "Supporting Document KC-000037"
+    - "Supporting Document KC-000042"
+    - "KC-000001 --belongs_to--> Operational Risk"
+    - "Backtesting --belongs_to--> Operational Risk"
+    - "Batch Scheduler --belongs_to--> Operational Risk"
+    - "Capital Requirement --belongs_to--> Operational Risk"
+    - "Correlation --belongs_to--> Operational Risk"
+    - "Data Loader --belongs_to--> Operational Risk"
+    - "Default --belongs_to--> Operational Risk"
+    - "Default Risk Charge --belongs_to--> Operational Risk"
+  confidence_score: "High"

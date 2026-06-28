@@ -1,0 +1,76 @@
+id: KC-000013
+original_path: "D:\\wrk\\juro\\FRTB\\WIB바젤III_설계_데이터매핑설계서_v0.105.xlsx"
+relative_path: "FRTB\\WIB바젤III_설계_데이터매핑설계서_v0.105.xlsx"
+filename: WIB바젤III_설계_데이터매핑설계서_v0.105.xlsx
+extension: xlsx
+size: 1898386
+last_modified: "2026-06-23T13:05:25+09:00"
+sha256: 7ac88c7d74e4d739450a72c92e106362b84d3cc09d56481f9cb6795d1118eb62
+language: Korean/English
+estimated_domain:
+  - FRTB
+estimated_category: Technical
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "RF 부도 리스크군:STOCK FRTB_TBR_RF_RISK_BCKT INDEX 021. RF 부도 리스크군:INDEX RATE_CURVE 031. RF 부도 리스크군:ETF BOND_FUT 111."
+  topics:
+    - "Basel II"
+    - "Basel III"
+    - "Default Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  concepts:
+    - "Default"
+    - "Default Risk Charge"
+    - "Position"
+    - "Risk Charge"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+  formulas:
+    - expression: "RC"
+      source: "keyword/formula candidate occurrence"
+  symbols:
+    - "RC"
+  glossary:
+    - term: "FRTB"
+      definition: "RF:STOCK FRTB_TBM_RF PGM_ID = #{1} 012."
+      source_document: "KC-000013"
+    - term: "Position"
+      definition: "RF 시나리오 값 FRTB_TBH_RF_VAL BASE_DT = #{2} AND PGM_ID = #{1} POSITION 211."
+      source_document: "KC-000013"
+  abbreviations:
+    - "CONFDT"
+    - "CSR"
+    - "DRC"
+    - "FRTB"
+    - "FX"
+    - "GIRR"
+    - "MC"
+    - "OTC"
+    - "PD"
+    - "RC"
+    - "SRC"
+    - "TRGT"
+  regulations:
+    - "Basel II"
+    - "Basel III"
+    - "FRTB"
+  organizations:
+    - "JURO"
+  domains:
+    - "Credit Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "Mathematics"
+    - "Regulation"
+    - "Statistics"
+    - "Treasury"
+  difficulty: "Intermediate"
+  importance: "Critical"

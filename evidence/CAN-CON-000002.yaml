@@ -1,0 +1,184 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000002"
+  canonical_concept_name: "Basel Framework"
+  concept_summary: "Evidence bundle for Basel Framework; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000007"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+    - evidence_id: "EVD-000008"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+    - evidence_id: "EVD-000009"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000004"
+      source_document_path: "FRTB\\\\업무매뉴얼\\\\210115 바젤Ⅲ 최종안 기준 시장리스크 규제체계 기준서(금융감독원)_.pdf"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000004.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+    - evidence_id: "EVD-000010"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000005"
+      source_document_path: "FRTB\\\\Basel3_개정SA정리_20210616.pptx"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000005.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+    - evidence_id: "EVD-000011"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000006"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_배치프로그램사양서.docx"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000006.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+    - evidence_id: "EVD-000012"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000007"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_배포매뉴얼_v0.9.docx"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000007.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+    - evidence_id: "EVD-000013"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000008"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000008.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+    - evidence_id: "EVD-000014"
+      canonical_concept: "CAN-CON-000002"
+      canonical_concept_name: "Basel Framework"
+      source_document: "KC-000009"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_설치매뉴얼.docx"
+      section_or_location: "canonical cross-reference via Fundamental Review of the Trading Book"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000009.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Fundamental Review of the Trading Book"
+        source_preserved: "true"
+  related_concepts:
+    - "Fundamental Review of the Trading Book"
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000004"
+    - "KC-000005"
+    - "KC-000006"
+    - "KC-000007"
+    - "KC-000008"
+    - "KC-000009"
+  related_glossary: []
+  relationship_path:
+    - "Basel Framework"
+    - "Canonical Concept CAN-CON-000002"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000004"
+    - "Supporting Document KC-000005"
+    - "Supporting Document KC-000006"
+    - "Supporting Document KC-000007"
+    - "Supporting Document KC-000008"
+    - "Supporting Document KC-000009"
+  confidence_score: "Low"

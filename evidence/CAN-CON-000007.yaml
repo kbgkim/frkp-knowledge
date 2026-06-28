@@ -1,0 +1,199 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000007"
+  canonical_concept_name: "Capital Requirement"
+  concept_summary: "Evidence bundle for Capital Requirement; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000061"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "KC-000001.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "KC-000001 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000062"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "KC-000003.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "KC-000003 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000063"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000005"
+      source_document_path: "FRTB\\\\Basel3_개정SA정리_20210616.pptx"
+      section_or_location: "KC-000005.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms:
+        - "CAN-GLO-000005"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000005.semantic.yaml"
+        graph_evidence: "KC-000005 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000064"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000008"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+      section_or_location: "KC-000008.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000008.semantic.yaml"
+        graph_evidence: "KC-000008 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000065"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000012"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_화면설계서_v1.0.xlsx"
+      section_or_location: "KC-000012.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000012.semantic.yaml"
+        graph_evidence: "KC-000012 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000066"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "KC-000016.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "KC-000016 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000067"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000005"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000068"
+      canonical_concept: "CAN-CON-000007"
+      canonical_concept_name: "Capital Requirement"
+      source_document: "KC-000042"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_제품소개자료_230512.pptx"
+      section_or_location: "KC-000042.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000042.semantic.yaml"
+        graph_evidence: "KC-000042 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts:
+    - "Residual Risk Add-on"
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000005"
+    - "KC-000008"
+    - "KC-000012"
+    - "KC-000016"
+    - "KC-000022"
+    - "KC-000042"
+  related_glossary:
+    - "CAN-GLO-000005"
+  relationship_path:
+    - "Capital Requirement"
+    - "Canonical Concept CAN-CON-000007"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000005"
+    - "Supporting Document KC-000008"
+    - "Supporting Document KC-000012"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000042"
+    - "KC-000001 --contains--> Capital Requirement"
+    - "Capital Requirement --referenced_by--> KC-000001"
+    - "Capital Requirement --belongs_to--> Credit Risk"
+    - "Capital Requirement --belongs_to--> FRTB"
+    - "Capital Requirement --belongs_to--> Java"
+    - "Capital Requirement --belongs_to--> Market Risk"
+    - "Capital Requirement --belongs_to--> Mathematics"
+    - "Capital Requirement --belongs_to--> Operational Risk"
+  confidence_score: "High"

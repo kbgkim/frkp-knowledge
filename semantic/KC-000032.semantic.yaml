@@ -1,0 +1,56 @@
+id: "KC-000032"
+source_document: "NCR\\\\한국 NCR_산출체계와_과정.pptx"
+summary: "상환우선주와 합산 순재산액 50% 이내, 잔존 5년 미만 시 연 20%씩 축소 3 금융리스부채 리스자산 현물상환이 가능하고 현금상환 의무가 없는 경우 (계약해지금 제외) 4 부채분류 상환우선주 보완자본 요건 충족분 (후순위차입금과 합산 50% 한도) 5 자산평가이익 재무제표 당기순이익·순재산액에 미반영된 평가이익 금융투자업자 NCR(순자본비율) 산출 체계와 과정 08 STEP 2 · 총위험액 산정 총위험액 = 시장위험액 + 신용위험액 + 운영위험액 영업 영위 과정에서 직면하는 손실을 미리 예측·계량화한 것으로, 위험 발생요인별로 세 가지로 구분하여 합산한다. 시장위험액 주가·금리·환율 등 시장가격 변동 손실 주식·금리·외환위험액 집합투자증권등·일반상품위험액 옵션위험액(델타플러스법) 신용위험액 거래상대방 계약불이행 손실 신용환산액 × 거래상대방 위험값 예금·RP·대출·채무보증·파생상품 신용집중위험액 가산 운영위험액 사고·시스템·외부사건 손실 영업이익 방식 vs 법정자본 10% 위험관리등급에 따른 가감 집합투자재산위험액(집합투자업자) 금융투자업자 NCR(순자본비율) 산출 체계와 과정 09 STEP 2 · 총위험액 · 시장위험액 시장위험액 — 6개 구성요소 개별위험액 (발행인 신용도 등 비체계적 위험) + 일반위험액 (시장 전체 가격변동 체계적 위험)으로 구분 산정하며, 파생상품은 기초자산 포지션으로 분해한다. 주식위험액 개별+일반(+인수·집중) 금리위험액 개별(0~32%)+일반(만기법) 외환위험액 순포지션 × 8% (금 포함) 집합투자증권등 기초자산 분해·등급별 위험값 일반상품위험액 commodity 별도 위험값 옵션위험액 델타플러스(감마·베가·깊은외가격) 예시 — 주식 개별/일반위험값 (유동성·분산도 충족 / 미충족) 구분 개별위험값 일반위험값 유가증권·해외적격시장 주식 4% / 8% 8% 코스닥·코넥스 주식 6% / 12% 8% 주가지수·바스켓·ETF 1% / 4% — 투자목적 비상장·매각제한 주식 20% — 금융투자업자 NCR(순자본비율) 산출 체계와 과정 10 STEP 2 ·..."
+topics:
+  - "Counterparty Credit Risk"
+  - "Credit Risk"
+  - "Default Risk"
+  - "Market Risk"
+  - "NCR"
+  - "Operational Risk"
+  - "Pricing"
+  - "Sensitivity"
+  - "Statistics"
+  - "Treasury"
+concepts:
+  - "Capital Ratio"
+  - "Default"
+  - "Market Data"
+  - "Net Capital Ratio"
+  - "Position"
+  - "Risk Charge"
+  - "Risk Factor"
+  - "Sensitivity"
+formulas:
+  - expression: "NCR"
+    source: "keyword/formula candidate occurrence"
+symbols:
+  - "sigma"
+glossary:
+  - term: "NCR"
+    definition: "금융투자업자 자기자본규제 NCR(순자본비율) 산출 체계와 과정 영업용순자본 · 총위험액 · 필요유지자기자본의 산정 구조와 절차 근거: 자본시장법 · 금융투자업규정 · 금융감독원 「NCR 산정기준 해설」 OVERVIEW · 제도 개요"
+    source_document: "KC-000032"
+abbreviations:
+  - "BIS"
+  - "NCR"
+  - "RP"
+regulations:
+  - "Korean Financial Supervisory Regulation"
+  - "NCR Regulation"
+organizations:
+  - "BIS"
+  - "FSS"
+domains:
+  - "Basel"
+  - "Credit Risk"
+  - "Market Risk"
+  - "Mathematics"
+  - "Operational Risk"
+  - "Regulation"
+  - "Statistics"
+  - "Treasury"
+difficulty: "Intermediate"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000032.yaml"
+  text_index: "index/KC-000032.txt"

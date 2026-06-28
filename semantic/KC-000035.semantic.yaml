@@ -1,0 +1,30 @@
+id: "KC-000035"
+source_document: "NCR\\\\FRTB-DELTA-RISK-FACTOR-EXPOSURE.pdf"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  - "FRTB"
+  - "NCR"
+  - "Sensitivity"
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  - "FRTB"
+  - "NCR"
+regulations:
+  - "FRTB"
+  - "NCR Regulation"
+organizations:
+  []
+domains:
+  - "FRTB"
+difficulty: "Introductory"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000035.yaml"
+  text_index: ''

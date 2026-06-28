@@ -1,0 +1,48 @@
+id: KC-000017
+original_path: "D:\\wrk\\juro\\Market\\시장리스크 엔진 설치 가이드(Linux).docx"
+relative_path: "Market\\시장리스크 엔진 설치 가이드(Linux).docx"
+filename: 시장리스크 엔진 설치 가이드(Linux).docx
+extension: docx
+size: 754777
+last_modified: "2026-06-23T13:05:39+09:00"
+sha256: dfefa5772baafe2b7ea1e8f59c696b3f8ef76761acf6386d426134b812118910
+language: Korean/English
+estimated_domain:
+  - Market Risk
+  - Treasury
+  - Java
+estimated_category: Manual
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "시장리스크 엔진 설치 가이드 Linux (Ubuntu / WSL) 환경 설치 및 구동 매뉴얼 목 차 1. 2.1 시스템 업데이트 APT 패키지 인덱스 및 설치된 패키지 업데이트 sudo apt update -y sudo apt upgrade -y 2.2 OpenJDK 8 설치 Java 8 (JDK) 설치 sudo apt install -y openjdk-8-jdk 2.3 R 기본 패키지 설치 R 베이스 패키지 설치 sudo apt install -y r-base 2.4 Linux 개발도구 설치 R · Oracle 라이브러리 빌드에 필요한 시스템 의존 라이브러리 일괄 설치 sudo apt install -y libcurl4-openssl-dev libssl-dev libxml2-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev unzip 3. Java · Linux 도구 설치 4.1 Java 1.8 설치 가상환경 내 OpenJDK 8 설치 conda install -c conda-forge openjdk=8 -y 4.2 R Java 환경 설정 가상환경이 활성화된 상태에서 Java 기반 R 패키지 위치를 세팅 R CMD javareconf 4.3 Linux 도구 설치 Oracle Instant Client 의존 도구 설치 sudo apt install -y libaio1t64 libnsl2 4.4 libaio 심볼릭 링크 만들기 libaio1t64 → libaio.so.1 로 사용할 수 있도록 심볼릭 링크 생성 sudo ln -s /usr/lib/x86_64-linux-gnu/libaio.so.1t64 /usr/lib/x86_64-linux-gnu/libaio.so.1 5."
+  topics:
+    - "Java"
+    - "Market Risk"
+    - "Treasury"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    - term: "Java"
+      definition: "2.1 시스템 업데이트 APT 패키지 인덱스 및 설치된 패키지 업데이트 sudo apt update -y sudo apt upgrade -y 2.2 OpenJDK 8 설치 Java 8 (JDK) 설치 sudo apt install -y openjdk-8-jdk 2.3 R 기본 패키지 설치 R 베이스 패키지 설치 sudo apt install -y r-base 2.4 Linux 개발도구 설치 R · Oracle 라이브러리 빌드에 필요한 시스템 의존 라이브러리 일괄 설치 sudo apt install -y libcurl4-openssl"
+      source_document: "KC-000017"
+  abbreviations:
+    - "XML"
+    - "ZIP"
+  regulations:
+    []
+  organizations:
+    - "JURO"
+    - "UROSYS"
+  domains:
+    - "Credit Risk"
+    - "Java"
+    - "Market Risk"
+    - "Treasury"
+  difficulty: "Introductory"
+  importance: "High"

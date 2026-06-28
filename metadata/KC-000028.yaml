@@ -1,0 +1,38 @@
+id: KC-000028
+original_path: "D:\\wrk\\juro\\NCR\\업무매뉴얼\\[별표 5] 금융투자업자의 위험액 산정기준(제2-4조 관련)(금융투자업규정시행세칙).pdf"
+relative_path: "NCR\\업무매뉴얼\\[별표 5] 금융투자업자의 위험액 산정기준(제2-4조 관련)(금융투자업규정시행세칙).pdf"
+filename: "[별표 5] 금융투자업자의 위험액 산정기준(제2-4조 관련)(금융투자업규정시행세칙).pdf"
+extension: pdf
+size: 506423
+last_modified: "2026-06-23T13:05:51+09:00"
+sha256: 28203fe18acf613deb0714239c60d527f398e89bd11049101c5493031d27ef7f
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Manual
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    - "NCR"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "NCR"
+  regulations:
+    - "Korean Financial Supervisory Regulation"
+    - "NCR Regulation"
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Critical"

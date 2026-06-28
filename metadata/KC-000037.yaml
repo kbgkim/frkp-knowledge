@@ -1,0 +1,102 @@
+id: KC-000037
+original_path: "D:\\wrk\\juro\\NCR\\NCR_배치사양서_통합_v1.0.docx"
+relative_path: "NCR\\NCR_배치사양서_통합_v1.0.docx"
+filename: NCR_배치사양서_통합_v1.0.docx
+extension: docx
+size: 579294
+last_modified: "2026-06-23T13:05:51+09:00"
+sha256: 909dfbf4a3c216c406bab05ff0a758cb4966603aa3eebfee606cc9b8cfdaa782
+language: Korean/English
+estimated_domain:
+  - Credit Risk
+  - Java
+  - Internal
+estimated_category: Document
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "전제조건 - NCR 배치 수행 완료 - 위기상황 시나리오 사용자 입력 완료 - 기준일자 월말 입력정보 월말 기준 포지션 정보 , 위기상황 시나리오 입력 정보, 민감도 정보 출력정보 옵션 포지션 위기상황 익스포져 산출 결과 파라미터 월말 기준일자 (월말이 아닐 경우 배치 시작 단계에서 Exception 을 발생시킴) 세부 프로세스 기술 STEP1. 전제조건 - NCR 배치 수행 완료 - 위기상황 시나리오 사용자 입력 완료 - 기준일자 월말 입력정보 월말 기준 포지션 정보 , 위기상황 시나리오 입력 정보, 민감도 정보 출력정보 금리 포지션 위기상황 익스포져 산출 결과 파라미터 월말 기준일자 (월말이 아닐 경우 배치 시작 단계에서 Exception 을 발생시킴) 세부 프로세스 기술 STEP1. 전제조건 - NCR 배치 수행 완료 - 기준일자 월말 - 위기상황 포지션 생성 완료 입력정보 월말 기준 포지션 정보 , 위기상황 시나리오 입력 정보, 위기상황 포지션 정보 출력정보 위기상황 시장 위험액 산출 결과 파라미터 월말 기준일자 (월말이 아닐 경우 배치 시작 단계에서 Exception 을 발생시킴) 세부 프로세스 기술 STEP1."
+  topics:
+    - "Counterparty Credit Risk"
+    - "Credit Risk"
+    - "Java"
+    - "Market Risk"
+    - "NCR"
+    - "Operational Risk"
+    - "OTC Derivatives"
+    - "P&L"
+    - "Pricing"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  concepts:
+    - "Batch Scheduler"
+    - "Data Loader"
+    - "Default"
+    - "Loss Given Default"
+    - "Net Capital Ratio"
+    - "Portfolio"
+    - "Position"
+    - "Probability of Default"
+    - "Risk Charge"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+  formulas:
+    - expression: "PD"
+      source: "keyword/formula candidate occurrence"
+    - expression: "LGD"
+      source: "keyword/formula candidate occurrence"
+    - expression: "NCR"
+      source: "keyword/formula candidate occurrence"
+    - expression: "NCR = ( 위기상황 영업용 순자본 - 위기상황 총 위험액 ) / 정상 필요 자기자본 STEP 4"
+      source: "inline mathematical expression"
+  symbols:
+    - "delta"
+    - "gamma"
+    - "LGD"
+    - "PD"
+    - "vega"
+  glossary:
+    - term: "Credit Risk"
+      definition: "CALCULATE 신용 위험액 - Credit RiskCalculator 신용 위험액 = 신용환산액 × 거래상대방 위험가중치 신용환산액 = 신용포지션 - 담보평가금액 이 때, 거래상대방 위험가중치는 거래상대방 분류에 따라 결정됨 STEP4."
+      source_document: "KC-000037"
+    - term: "Java"
+      definition: "right 2244090 0 0 TaskletTest.java 파일 수정 T est_ YYYYMMDD() 메소드와 같이 작업을 수행할 날짜를 testAll 메소드의 인자로 넣음."
+      source_document: "KC-000037"
+    - term: "NCR"
+      definition: "목적 이 문서는 BNK 리스크 모니터링 시스템 내 NCR, 위기상황NCR, 유동성 비율의 배치 프로그램에 대한 설명을 기술하고 있습니다."
+      source_document: "KC-000037"
+    - term: "Position"
+      definition: "center 280035 0 0 CLASS ID NCRPositionTasklet 프로그램명 포지션 적재 개요"
+      source_document: "KC-000037"
+    - term: "Sensitivity"
+      definition: "INSERT Target : RNC_TBH_UASSET_PRICE CLASS ID SensitivityTasklet 프로그램명 민감도 적재 개요"
+      source_document: "KC-000037"
+  abbreviations:
+    - "ELS"
+    - "EQ"
+    - "FX"
+    - "KIS"
+    - "LGD"
+    - "NCR"
+    - "OTC"
+    - "PD"
+    - "XML"
+  regulations:
+    - "NCR Regulation"
+  organizations:
+    - "JURO"
+  domains:
+    - "Credit Risk"
+    - "Java"
+    - "Market Risk"
+    - "Mathematics"
+    - "Operational Risk"
+    - "Regulation"
+    - "Statistics"
+    - "Treasury"
+  difficulty: "Advanced"
+  importance: "Critical"

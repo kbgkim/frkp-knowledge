@@ -1,0 +1,37 @@
+id: KC-000029
+original_path: "D:\\wrk\\juro\\NCR\\업무매뉴얼\\1801_금융투자업자_NCR 산정기준 해설_.pdf"
+relative_path: "NCR\\업무매뉴얼\\1801_금융투자업자_NCR 산정기준 해설_.pdf"
+filename: 1801_금융투자업자_NCR 산정기준 해설_.pdf
+extension: pdf
+size: 6175144
+last_modified: "2026-06-23T13:05:51+09:00"
+sha256: c1479c863078e7baee62e6de056c3a0a1cc680e4f3a4f8a82b7955fa5b8100db
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Manual
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    - "NCR"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "NCR"
+  regulations:
+    - "NCR Regulation"
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Critical"

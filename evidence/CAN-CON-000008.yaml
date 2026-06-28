@@ -1,0 +1,388 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000008"
+  canonical_concept_name: "Correlation"
+  concept_summary: "Evidence bundle for Correlation; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000069"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "KC-000001.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "KC-000001 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000070"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "KC-000003.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000006"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "KC-000003 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000071"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000005"
+      source_document_path: "FRTB\\\\Basel3_개정SA정리_20210616.pptx"
+      section_or_location: "KC-000005.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000005.semantic.yaml"
+        graph_evidence: "KC-000005 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000072"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000006"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_배치프로그램사양서.docx"
+      section_or_location: "KC-000006.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000006.semantic.yaml"
+        graph_evidence: "KC-000006 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000073"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000008"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+      section_or_location: "KC-000008.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000008.semantic.yaml"
+        graph_evidence: "KC-000008 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000074"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000009"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_설치매뉴얼.docx"
+      section_or_location: "KC-000009.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000009.semantic.yaml"
+        graph_evidence: "KC-000009 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000075"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000011"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_테이블정의서_v1.0.xlsx"
+      section_or_location: "KC-000011.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000011.semantic.yaml"
+        graph_evidence: "KC-000011 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000076"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000012"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_화면설계서_v1.0.xlsx"
+      section_or_location: "KC-000012.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000012.semantic.yaml"
+        graph_evidence: "KC-000012 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000077"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000015"
+      source_document_path: "Market\\\\130625_리스크_시장VaR_분석_요건정의서_V1.4_암호화해제.docx"
+      section_or_location: "KC-000015.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000015.semantic.yaml"
+        graph_evidence: "KC-000015 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000078"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "KC-000016.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000005"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "KC-000016 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000079"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000018"
+      source_document_path: "Market\\\\BNK_시장리스크_배치_운영자매뉴얼_v1.1_20200601.docx"
+      section_or_location: "KC-000018.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Formula"
+      traceability:
+        semantic_artifact: "semantic/KC-000018.semantic.yaml"
+        graph_evidence: "KC-000018 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000080"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000019"
+      source_document_path: "Market\\\\BNK_시장리스크_측정시스템_사용자매뉴얼_v1.0_20200526.docx"
+      section_or_location: "KC-000019.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Formula"
+      traceability:
+        semantic_artifact: "semantic/KC-000019.semantic.yaml"
+        graph_evidence: "KC-000019 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000081"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000021"
+      source_document_path: "Market\\\\BNK_시장리스크_평가시스템_운영자매뉴얼_v1.0_20200526.docx"
+      section_or_location: "KC-000021.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000003"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000021.semantic.yaml"
+        graph_evidence: "KC-000021 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000082"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000005"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000006"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000083"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000023"
+      source_document_path: "Market\\\\BNK_시장VaR 업무요건정의서_v1.2_20200413.docx"
+      section_or_location: "KC-000023.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000023.semantic.yaml"
+        graph_evidence: "KC-000023 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000084"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000040"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_사용자매뉴얼_v0.93.docx"
+      section_or_location: "KC-000040.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000040.semantic.yaml"
+        graph_evidence: "KC-000040 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000085"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000041"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_운영자매뉴얼_v0.90.docx"
+      section_or_location: "KC-000041.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Definition"
+      traceability:
+        semantic_artifact: "semantic/KC-000041.semantic.yaml"
+        graph_evidence: "KC-000041 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000086"
+      canonical_concept: "CAN-CON-000008"
+      canonical_concept_name: "Correlation"
+      source_document: "KC-000042"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_제품소개자료_230512.pptx"
+      section_or_location: "KC-000042.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000006"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000042.semantic.yaml"
+        graph_evidence: "KC-000042 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas:
+    - "CAN-FOR-000005"
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000003"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000005"
+    - "KC-000006"
+    - "KC-000008"
+    - "KC-000009"
+    - "KC-000011"
+    - "KC-000012"
+    - "KC-000015"
+    - "KC-000016"
+    - "KC-000018"
+    - "KC-000019"
+    - "KC-000021"
+    - "KC-000022"
+    - "KC-000023"
+    - "KC-000040"
+    - "KC-000041"
+    - "KC-000042"
+  related_glossary:
+    - "CAN-GLO-000006"
+  relationship_path:
+    - "Correlation"
+    - "Canonical Concept CAN-CON-000008"
+    - "Formula CAN-FOR-000005"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000003"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000005"
+    - "Supporting Document KC-000006"
+    - "Supporting Document KC-000008"
+    - "Supporting Document KC-000009"
+    - "Supporting Document KC-000011"
+    - "Supporting Document KC-000012"
+    - "Supporting Document KC-000015"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000018"
+    - "Supporting Document KC-000019"
+    - "KC-000001 --contains--> Correlation"
+    - "Correlation --referenced_by--> KC-000001"
+    - "Correlation --belongs_to--> Credit Risk"
+    - "Correlation --belongs_to--> FRTB"
+    - "Correlation --belongs_to--> Java"
+    - "Correlation --belongs_to--> Market Risk"
+    - "Correlation --belongs_to--> Mathematics"
+    - "Correlation --belongs_to--> Operational Risk"
+  confidence_score: "High"

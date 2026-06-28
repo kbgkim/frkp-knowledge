@@ -1,0 +1,40 @@
+id: KC-000004
+original_path: "D:\\wrk\\juro\\FRTB\\업무매뉴얼\\210115 바젤Ⅲ 최종안 기준 시장리스크 규제체계 기준서(금융감독원)_.pdf"
+relative_path: "FRTB\\업무매뉴얼\\210115 바젤Ⅲ 최종안 기준 시장리스크 규제체계 기준서(금융감독원)_.pdf"
+filename: 210115 바젤Ⅲ 최종안 기준 시장리스크 규제체계 기준서(금융감독원)_.pdf
+extension: pdf
+size: 5422975
+last_modified: "2026-06-23T13:05:25+09:00"
+sha256: 83cbf452bba74fb97a7f1afb733b59d06375b6afa97aff8df774e7c45f1aa684
+language: Korean/English
+estimated_domain:
+  - FRTB
+estimated_category: Manual
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    - "Basel III"
+    - "FRTB"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "FRTB"
+  regulations:
+    - "Basel III"
+    - "FRTB"
+    - "Korean Financial Supervisory Regulation"
+  organizations:
+    - "FSS"
+  domains:
+    - "FRTB"
+  difficulty: "Introductory"
+  importance: "Critical"

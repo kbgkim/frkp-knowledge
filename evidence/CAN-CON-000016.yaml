@@ -1,0 +1,187 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000016"
+  canonical_concept_name: "Expected Credit Loss"
+  concept_summary: "Evidence bundle for Expected Credit Loss; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000175"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+    - evidence_id: "EVD-000176"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+    - evidence_id: "EVD-000177"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000005"
+      source_document_path: "FRTB\\\\Basel3_개정SA정리_20210616.pptx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000005.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+    - evidence_id: "EVD-000178"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000006"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_배치프로그램사양서.docx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000006.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+    - evidence_id: "EVD-000179"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000008"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_사용자매뉴얼_v1.0.docx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000008.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+    - evidence_id: "EVD-000180"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000010"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_운영자매뉴얼_v1.0.docx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000010.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+    - evidence_id: "EVD-000181"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+    - evidence_id: "EVD-000182"
+      canonical_concept: "CAN-CON-000016"
+      canonical_concept_name: "Expected Credit Loss"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "canonical cross-reference via Credit Risk"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Credit Risk"
+        source_preserved: "true"
+  related_concepts:
+    - "Credit Risk"
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000005"
+    - "KC-000006"
+    - "KC-000008"
+    - "KC-000010"
+    - "KC-000016"
+    - "KC-000022"
+  related_glossary: []
+  relationship_path:
+    - "Expected Credit Loss"
+    - "Canonical Concept CAN-CON-000016"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000005"
+    - "Supporting Document KC-000006"
+    - "Supporting Document KC-000008"
+    - "Supporting Document KC-000010"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000022"
+    - "Expected Credit Loss --related_to--> KB-221"
+  confidence_score: "Low"

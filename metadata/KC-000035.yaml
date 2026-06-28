@@ -1,0 +1,41 @@
+id: KC-000035
+original_path: "D:\\wrk\\juro\\NCR\\FRTB-DELTA-RISK-FACTOR-EXPOSURE.pdf"
+relative_path: "NCR\\FRTB-DELTA-RISK-FACTOR-EXPOSURE.pdf"
+filename: FRTB-DELTA-RISK-FACTOR-EXPOSURE.pdf
+extension: pdf
+size: 1939
+last_modified: "2026-06-26T10:29:05+09:00"
+sha256: a9e99141572ddbbb53788d8681b2f04b47a16fc972ced28a065931e67b56bb91
+language: English
+estimated_domain:
+  - FRTB
+estimated_category: Document
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    - "FRTB"
+    - "NCR"
+    - "Sensitivity"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "FRTB"
+    - "NCR"
+  regulations:
+    - "FRTB"
+    - "NCR Regulation"
+  organizations:
+    []
+  domains:
+    - "FRTB"
+  difficulty: "Introductory"
+  importance: "Critical"

@@ -1,0 +1,195 @@
+flowchart TD
+  CON_000002["Batch Scheduler<br/>Concept"]
+  CON_000004["Capital Requirement<br/>Concept"]
+  CON_000005["Correlation<br/>Concept"]
+  CON_000006["Counterparty Credit Risk<br/>Concept"]
+  CON_000007["CVA<br/>Concept"]
+  CON_000008["Data Loader<br/>Concept"]
+  CON_000011["Default Risk Charge<br/>Concept"]
+  CON_000013["Expected Shortfall<br/>Concept"]
+  CON_000014["Exposure at Default<br/>Concept"]
+  CON_000015["FRTB<br/>Concept"]
+  CON_000016["Historical Simulation<br/>Concept"]
+  CON_000017["Liquidity Horizon<br/>Concept"]
+  CON_000018["Loss Given Default<br/>Concept"]
+  CON_000020["Market Data<br/>Concept"]
+  CON_000022["NCR<br/>Concept"]
+  CON_000023["Net Capital Ratio<br/>Concept"]
+  CON_000024["OTC Derivatives<br/>Concept"]
+  CON_000025["P&L<br/>Concept"]
+  CON_000026["Parametric VaR<br/>Concept"]
+  CON_000029["Pricing<br/>Concept"]
+  CON_000030["Probability of Default<br/>Concept"]
+  CON_000032["Residual Risk Add-on<br/>Concept"]
+  CON_000033["REST API<br/>Concept"]
+  CON_000034["Risk Charge<br/>Concept"]
+  CON_000035["Risk Factor<br/>Concept"]
+  CON_000037["Sensitivity<br/>Concept"]
+  CON_000038["Stress Scenario<br/>Concept"]
+  CON_000039["Value at Risk<br/>Concept"]
+  CON_000040["Volatility<br/>Concept"]
+  FOR_000020["CVA<br/>Formula"]
+  FOR_000022["EAD<br/>Formula"]
+  FOR_000024["ES<br/>Formula"]
+  FOR_000040["LGD<br/>Formula"]
+  FOR_000047["NCR<br/>Formula"]
+  FOR_000050["PD<br/>Formula"]
+  FOR_000071["VaR<br/>Formula"]
+  GLO_000006["Correlation<br/>Glossary Term"]
+  GLO_000008["CVA<br/>Glossary Term"]
+  GLO_000009["Data Loader<br/>Glossary Term"]
+  GLO_000012["Expected Shortfall<br/>Glossary Term"]
+  GLO_000013["FRTB<br/>Glossary Term"]
+  GLO_000014["Historical Simulation<br/>Glossary Term"]
+  GLO_000016["Liquidity Horizon<br/>Glossary Term"]
+  GLO_000017["Loss Given Default<br/>Glossary Term"]
+  GLO_000019["Market Data<br/>Glossary Term"]
+  GLO_000022["NCR<br/>Glossary Term"]
+  GLO_000023["Net Capital Ratio<br/>Glossary Term"]
+  GLO_000025["OTC Derivatives<br/>Glossary Term"]
+  GLO_000026["P&L<br/>Glossary Term"]
+  GLO_000027["Parametric VaR<br/>Glossary Term"]
+  GLO_000030["Pricing<br/>Glossary Term"]
+  GLO_000031["Probability of Default<br/>Glossary Term"]
+  GLO_000032["REST API<br/>Glossary Term"]
+  GLO_000033["Risk Factor<br/>Glossary Term"]
+  GLO_000034["Sensitivity<br/>Glossary Term"]
+  GLO_000036["Value at Risk<br/>Glossary Term"]
+  GLO_000037["Volatility<br/>Glossary Term"]
+  ABB_000007["API<br/>Abbreviation"]
+  ABB_000012["CCR<br/>Abbreviation"]
+  ABB_000017["CLI<br/>Abbreviation"]
+  ABB_000028["CSR<br/>Abbreviation"]
+  ABB_000030["CVA<br/>Abbreviation"]
+  ABB_000035["DRC<br/>Abbreviation"]
+  ABB_000036["EAD<br/>Abbreviation"]
+  ABB_000042["ES<br/>Abbreviation"]
+  ABB_000044["ETL<br/>Abbreviation"]
+  ABB_000048["FRTB<br/>Abbreviation"]
+  ABB_000051["FX<br/>Abbreviation"]
+  ABB_000053["GIRR<br/>Abbreviation"]
+  ABB_000066["LGD<br/>Abbreviation"]
+  ABB_000070["MTM<br/>Abbreviation"]
+  ABB_000071["NCR<br/>Abbreviation"]
+  ABB_000073["OTC<br/>Abbreviation"]
+  ABB_000074["P&L<br/>Abbreviation"]
+  ABB_000076["PD<br/>Abbreviation"]
+  ABB_000081["REST<br/>Abbreviation"]
+  ABB_000084["RRAO<br/>Abbreviation"]
+  ABB_000091["VaR<br/>Abbreviation"]
+  REG_000001["Basel II<br/>Regulation"]
+  REG_000002["Basel III<br/>Regulation"]
+  REG_000003["FRTB<br/>Regulation"]
+  REG_000004["IFRS 9<br/>Regulation"]
+  REG_000005["Korean Financial Supervisory Regulation<br/>Regulation"]
+  REG_000006["NCR Regulation<br/>Regulation"]
+  ORG_000001["BCBS<br/>Organization"]
+  ORG_000002["BIS<br/>Organization"]
+  ORG_000003["FSC<br/>Organization"]
+  ORG_000004["FSS<br/>Organization"]
+  ORG_000005["IASB<br/>Organization"]
+  DOM_000006["Credit Risk<br/>Knowledge Domain"]
+  DOM_000007["FRTB<br/>Knowledge Domain"]
+  DOM_000010["Market Risk<br/>Knowledge Domain"]
+  DOM_000014["Regulation<br/>Knowledge Domain"]
+  DOM_000016["Statistics<br/>Knowledge Domain"]
+  CON_000004 -->|regulated_by| REG_000001
+  CON_000011 -->|regulated_by| REG_000001
+  CON_000023 -->|regulated_by| REG_000001
+  CON_000034 -->|regulated_by| REG_000001
+  CON_000004 -->|regulated_by| REG_000002
+  CON_000011 -->|regulated_by| REG_000002
+  CON_000023 -->|regulated_by| REG_000002
+  CON_000034 -->|regulated_by| REG_000002
+  CON_000004 -->|regulated_by| REG_000003
+  CON_000011 -->|regulated_by| REG_000003
+  CON_000023 -->|regulated_by| REG_000003
+  CON_000034 -->|regulated_by| REG_000003
+  CON_000004 -->|regulated_by| REG_000006
+  CON_000011 -->|regulated_by| REG_000006
+  CON_000023 -->|regulated_by| REG_000006
+  CON_000034 -->|regulated_by| REG_000006
+  CON_000023 -->|implemented_by| FOR_000047
+  GLO_000009 -->|defines| CON_000008
+  GLO_000013 -->|defines| CON_000015
+  GLO_000019 -->|defines| CON_000020
+  GLO_000022 -->|defines| CON_000022
+  GLO_000026 -->|defines| CON_000025
+  GLO_000030 -->|defines| CON_000029
+  GLO_000032 -->|defines| CON_000033
+  ABB_000007 -->|equivalent_to| CON_000033
+  ABB_000017 -->|equivalent_to| CON_000002
+  ABB_000028 -->|equivalent_to| CON_000035
+  ABB_000042 -->|equivalent_to| CON_000013
+  ABB_000042 -->|equivalent_to| FOR_000024
+  ABB_000048 -->|equivalent_to| CON_000015
+  ABB_000053 -->|equivalent_to| CON_000035
+  ABB_000070 -->|equivalent_to| CON_000029
+  ABB_000071 -->|equivalent_to| CON_000023
+  ABB_000071 -->|equivalent_to| FOR_000047
+  ABB_000073 -->|equivalent_to| CON_000024
+  ABB_000074 -->|equivalent_to| CON_000025
+  ABB_000081 -->|equivalent_to| CON_000033
+  ABB_000091 -->|equivalent_to| CON_000039
+  ABB_000091 -->|equivalent_to| FOR_000071
+  CON_000004 -->|regulated_by| REG_000005
+  CON_000011 -->|regulated_by| REG_000005
+  CON_000023 -->|regulated_by| REG_000005
+  CON_000034 -->|regulated_by| REG_000005
+  CON_000018 -->|implemented_by| FOR_000040
+  GLO_000006 -->|defines| CON_000005
+  GLO_000017 -->|defines| CON_000018
+  GLO_000033 -->|defines| CON_000035
+  ABB_000051 -->|equivalent_to| CON_000020
+  ABB_000066 -->|equivalent_to| CON_000018
+  ABB_000066 -->|equivalent_to| FOR_000040
+  GLO_000037 -->|defines| CON_000040
+  ABB_000035 -->|equivalent_to| CON_000011
+  ABB_000084 -->|equivalent_to| CON_000032
+  ABB_000076 -->|equivalent_to| CON_000030
+  GLO_000014 -->|defines| CON_000016
+  GLO_000027 -->|defines| CON_000026
+  GLO_000034 -->|defines| CON_000037
+  GLO_000036 -->|defines| CON_000039
+  CON_000030 -->|implemented_by| FOR_000050
+  GLO_000012 -->|defines| CON_000013
+  GLO_000016 -->|defines| CON_000017
+  GLO_000023 -->|defines| CON_000023
+  ABB_000076 -->|equivalent_to| FOR_000050
+  CON_000014 -->|implemented_by| FOR_000022
+  GLO_000008 -->|defines| CON_000007
+  GLO_000025 -->|defines| CON_000024
+  GLO_000031 -->|defines| CON_000030
+  ABB_000030 -->|equivalent_to| CON_000007
+  ABB_000030 -->|equivalent_to| FOR_000020
+  ABB_000036 -->|equivalent_to| CON_000014
+  ABB_000036 -->|equivalent_to| FOR_000022
+  ABB_000044 -->|equivalent_to| CON_000008
+  ABB_000012 -->|equivalent_to| CON_000006
+  REG_000001 -->|regulated_by| ORG_000001
+  REG_000001 -->|regulated_by| ORG_000002
+  REG_000002 -->|regulated_by| ORG_000001
+  REG_000002 -->|regulated_by| ORG_000002
+  REG_000003 -->|regulated_by| ORG_000001
+  REG_000003 -->|regulated_by| ORG_000002
+  REG_000004 -->|regulated_by| ORG_000005
+  REG_000005 -->|regulated_by| ORG_000003
+  REG_000005 -->|regulated_by| ORG_000004
+  REG_000006 -->|regulated_by| ORG_000003
+  REG_000006 -->|regulated_by| ORG_000004
+  DOM_000014 -->|prerequisite_of| DOM_000007
+  DOM_000007 -->|prerequisite_of| DOM_000010
+  DOM_000010 -->|prerequisite_of| CON_000013
+  DOM_000010 -->|prerequisite_of| CON_000039
+  DOM_000010 -->|prerequisite_of| CON_000037
+  CON_000037 -->|prerequisite_of| CON_000035
+  CON_000013 -->|prerequisite_of| CON_000017
+  CON_000013 -->|prerequisite_of| CON_000038
+  CON_000039 -->|prerequisite_of| CON_000026
+  CON_000039 -->|prerequisite_of| CON_000016
+  DOM_000016 -->|prerequisite_of| CON_000040
+  DOM_000016 -->|prerequisite_of| CON_000005
+  DOM_000006 -->|prerequisite_of| CON_000030
+  DOM_000006 -->|prerequisite_of| CON_000018
+  DOM_000006 -->|prerequisite_of| CON_000014
+  CON_000022 -->|prerequisite_of| CON_000023

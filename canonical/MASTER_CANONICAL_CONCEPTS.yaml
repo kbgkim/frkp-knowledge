@@ -1,0 +1,2185 @@
+canonical_concepts:
+  - id: "CAN-CON-000001"
+    canonical_name: "Backtesting"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Model Validation"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000016"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000001"
+        original_name: "Backtesting"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000002"
+    canonical_name: "Basel Framework"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Fundamental Review of the Trading Book"
+    related_concepts: []
+    source_documents: []
+    source_items: []
+  - id: "CAN-CON-000003"
+    canonical_name: "Basel II"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000042"
+    source_items:
+      - original_id: ""
+        original_name: "Basel II"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+  - id: "CAN-CON-000004"
+    canonical_name: "Basel III"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000004"
+      - "KC-000005"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000042"
+    source_items:
+      - original_id: ""
+        original_name: "Basel III"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000004.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+  - id: "CAN-CON-000005"
+    canonical_name: "Batch Scheduler"
+    aliases:
+      - "CLI"
+      - "Command Line Interface"
+    abbreviations:
+      - "CLI"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000020"
+      - "KC-000021"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000002"
+        original_name: "Batch Scheduler"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000006"
+    canonical_name: "Capital Ratio"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000003"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000034"
+      - "KC-000036"
+    source_items:
+      - original_id: "CON-000003"
+        original_name: "Capital Ratio"
+        sources:
+          - "KC-000003.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000007"
+    canonical_name: "Capital Requirement"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Residual Risk Add-on"
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000008"
+      - "KC-000012"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000004"
+        original_name: "Capital Requirement"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000008"
+    canonical_name: "Correlation"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000040"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000005"
+        original_name: "Correlation"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000009"
+    canonical_name: "Counterparty Credit Risk"
+    aliases:
+      - "CCR"
+    abbreviations:
+      - "CCR"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000006"
+        original_name: "Counterparty Credit Risk"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000010"
+    canonical_name: "Credit Risk"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Expected Credit Loss"
+      - "Exposure at Default"
+      - "Loss Given Default"
+      - "Probability of Default"
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000010"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    source_items:
+      - original_id: ""
+        original_name: "Credit Risk"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+  - id: "CAN-CON-000011"
+    canonical_name: "Credit Valuation Adjustment"
+    aliases:
+      - "CVA"
+    abbreviations:
+      - "CVA"
+    alternative_spellings: []
+    equivalent_terms:
+      - "CVA"
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000022"
+    source_items:
+      - original_id: "CON-000007"
+        original_name: "CVA"
+        sources:
+          - "KC-000022.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000012"
+    canonical_name: "Data Loader"
+    aliases:
+      - "ETL"
+      - "Extract Transform Load"
+    abbreviations:
+      - "ETL"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000006"
+      - "KC-000012"
+      - "KC-000022"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000008"
+        original_name: "Data Loader"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000013"
+    canonical_name: "Default"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000020"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000009"
+        original_name: "Default"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000014"
+    canonical_name: "Default Risk"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Default Risk Charge"
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000016"
+      - "KC-000032"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000010"
+        original_name: "Default Risk"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000015"
+    canonical_name: "Default Risk Charge"
+    aliases:
+      - "DRC"
+      - "Default Risk Capital Charge"
+    abbreviations:
+      - "DRC"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Default Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000011"
+        original_name: "Default Risk Charge"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000016"
+    canonical_name: "Expected Credit Loss"
+    aliases:
+      - "ECL"
+    abbreviations:
+      - "ECL"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Credit Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents: []
+    source_items:
+      - original_id: "CON-000012"
+        original_name: "Expected Credit Loss"
+        sources:
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000017"
+    canonical_name: "Expected Shortfall"
+    aliases:
+      - "CVaR"
+      - "Conditional Value at Risk"
+      - "ES"
+      - "ETL"
+      - "Expected Tail Loss"
+      - "Tail Risk Measure"
+    abbreviations:
+      - "ES"
+      - "ETL"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Market Risk Measurement"
+    narrower_concepts:
+      - "Liquidity Horizon"
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000036"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000013"
+        original_name: "Expected Shortfall"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000018"
+    canonical_name: "Exposure at Default"
+    aliases:
+      - "EAD"
+      - "부도시익스포저"
+    abbreviations:
+      - "EAD"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Credit Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000022"
+    source_items:
+      - original_id: "CON-000014"
+        original_name: "Exposure at Default"
+        sources:
+          - "KC-000022.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000019"
+    canonical_name: "Fundamental Review of the Trading Book"
+    aliases:
+      - "Basel III Market Risk"
+      - "FRTB"
+      - "FRTB Market Risk"
+    abbreviations:
+      - "FRTB"
+    alternative_spellings: []
+    equivalent_terms:
+      - "FRTB"
+    broader_concept: "Basel Framework"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000004"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000007"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000035"
+      - "KC-000040"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000015"
+        original_name: "FRTB"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000004.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000007.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000035.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000020"
+    canonical_name: "Historical Simulation"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Value at Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000016"
+        original_name: "Historical Simulation"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000021"
+    canonical_name: "IFRS 9"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000021"
+    source_items:
+      - original_id: ""
+        original_name: "IFRS 9"
+        sources:
+          - "KC-000021.semantic.yaml"
+  - id: "CAN-CON-000022"
+    canonical_name: "Java"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000007"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000017"
+      - "KC-000018"
+      - "KC-000037"
+      - "KC-000041"
+    source_items:
+      - original_id: ""
+        original_name: "Java"
+        sources:
+          - "KC-000007.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000017.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+  - id: "CAN-CON-000023"
+    canonical_name: "Liquidity Horizon"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Expected Shortfall"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000016"
+    source_items:
+      - original_id: "CON-000017"
+        original_name: "Liquidity Horizon"
+        sources:
+          - "KC-000016.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000024"
+    canonical_name: "Loss Given Default"
+    aliases:
+      - "LGD"
+      - "부도시손실률"
+    abbreviations:
+      - "LGD"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Credit Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000008"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000014"
+      - "KC-000022"
+      - "KC-000034"
+      - "KC-000037"
+    source_items:
+      - original_id: "CON-000018"
+        original_name: "Loss Given Default"
+        sources:
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000025"
+    canonical_name: "Margin"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+    source_items:
+      - original_id: "CON-000019"
+        original_name: "Margin"
+        sources:
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000026"
+    canonical_name: "Market Data"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000008"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000020"
+        original_name: "Market Data"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000027"
+    canonical_name: "Market Risk"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000017"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000020"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    source_items:
+      - original_id: ""
+        original_name: "Market Risk"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000017.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+  - id: "CAN-CON-000028"
+    canonical_name: "Market Risk Measurement"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Expected Shortfall"
+      - "Risk Factor"
+      - "Sensitivity"
+      - "Value at Risk"
+    related_concepts: []
+    source_documents: []
+    source_items: []
+  - id: "CAN-CON-000029"
+    canonical_name: "Model Validation"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Backtesting"
+    related_concepts: []
+    source_documents: []
+    source_items: []
+  - id: "CAN-CON-000030"
+    canonical_name: "Monte Carlo Simulation"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Value at Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+    source_items:
+      - original_id: "CON-000021"
+        original_name: "Monte Carlo Simulation"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000031"
+    canonical_name: "Net Capital Ratio"
+    aliases:
+      - "NCR"
+      - "Net Capital Ratio Regulation Metric"
+      - "Net Operating Capital Ratio"
+      - "순자본비율"
+      - "영업용순자본비율"
+    abbreviations:
+      - "NCR"
+    alternative_spellings: []
+    equivalent_terms:
+      - "NCR"
+    broader_concept: "Regulatory Capital"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000027"
+      - "KC-000028"
+      - "KC-000029"
+      - "KC-000030"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000035"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000038"
+      - "KC-000039"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000022"
+        original_name: "NCR"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000027.semantic.yaml"
+          - "KC-000028.semantic.yaml"
+          - "KC-000029.semantic.yaml"
+          - "KC-000030.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000035.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000038.semantic.yaml"
+          - "KC-000039.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+      - original_id: "CON-000023"
+        original_name: "Net Capital Ratio"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000032"
+    canonical_name: "Operational Risk"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    source_items:
+      - original_id: ""
+        original_name: "Operational Risk"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+  - id: "CAN-CON-000033"
+    canonical_name: "Over-the-Counter Derivatives"
+    aliases:
+      - "OTC"
+      - "OTC Derivatives"
+    abbreviations:
+      - "OTC"
+    alternative_spellings: []
+    equivalent_terms:
+      - "OTC Derivatives"
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000006"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000019"
+      - "KC-000020"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000031"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000024"
+        original_name: "OTC Derivatives"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000034"
+    canonical_name: "Parametric VaR"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Value at Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000034"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000026"
+        original_name: "Parametric VaR"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000035"
+    canonical_name: "Portfolio"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000027"
+        original_name: "Portfolio"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000036"
+    canonical_name: "Position"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000010"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000020"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000028"
+        original_name: "Position"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000037"
+    canonical_name: "Pricing"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000020"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000029"
+        original_name: "Pricing"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000038"
+    canonical_name: "Probability of Default"
+    aliases:
+      - "Default Probability"
+      - "PD"
+      - "부도확률"
+    abbreviations:
+      - "PD"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Credit Risk"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000037"
+    source_items:
+      - original_id: "CON-000030"
+        original_name: "Probability of Default"
+        sources:
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000039"
+    canonical_name: "Profit and Loss"
+    aliases:
+      - "P&L"
+      - "PnL"
+    abbreviations:
+      - "P&L"
+    alternative_spellings: []
+    equivalent_terms:
+      - "P&L"
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000008"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000025"
+        original_name: "P&L"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000040"
+    canonical_name: "Regulatory Capital"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Net Capital Ratio"
+    related_concepts: []
+    source_documents: []
+    source_items: []
+  - id: "CAN-CON-000041"
+    canonical_name: "Residual Risk Add-on"
+    aliases:
+      - "RRAO"
+      - "Residual Risk"
+      - "Residual Risk Add On"
+    abbreviations:
+      - "RRAO"
+    alternative_spellings: []
+    equivalent_terms:
+      - "Residual Risk"
+    broader_concept: "Capital Requirement"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000014"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000031"
+        original_name: "Residual Risk"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+      - original_id: "CON-000032"
+        original_name: "Residual Risk Add-on"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000042"
+    canonical_name: "REST API"
+    aliases:
+      - "API"
+      - "Application Programming Interface"
+      - "REST"
+    abbreviations:
+      - "API"
+      - "REST"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000033"
+        original_name: "REST API"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000043"
+    canonical_name: "Risk Charge"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000010"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000034"
+        original_name: "Risk Charge"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000010.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000044"
+    canonical_name: "Risk Factor"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Market Risk Measurement"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000012"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000040"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000035"
+        original_name: "Risk Factor"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000045"
+    canonical_name: "Risk Management"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts:
+      - "Stress Testing"
+    related_concepts: []
+    source_documents: []
+    source_items: []
+  - id: "CAN-CON-000046"
+    canonical_name: "Risk Weighted Assets"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000003"
+      - "KC-000022"
+    source_items:
+      - original_id: "CON-000036"
+        original_name: "Risk Weighted Assets"
+        sources:
+          - "KC-000003.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000047"
+    canonical_name: "Sensitivity"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Market Risk Measurement"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000020"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000035"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000037"
+        original_name: "Sensitivity"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000035.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000048"
+    canonical_name: "Statistics"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: ""
+        original_name: "Statistics"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+  - id: "CAN-CON-000049"
+    canonical_name: "Stress Testing"
+    aliases:
+      - "Stress Scenario"
+      - "Stress Test"
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms:
+      - "Stress Scenario"
+    broader_concept: "Risk Management"
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000006"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000020"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000038"
+        original_name: "Stress Scenario"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+      - original_id: ""
+        original_name: "Stress Testing"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000006.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000020.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+  - id: "CAN-CON-000050"
+    canonical_name: "Treasury"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000008"
+      - "KC-000009"
+      - "KC-000011"
+      - "KC-000012"
+      - "KC-000013"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000017"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000031"
+      - "KC-000032"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+    source_items:
+      - original_id: ""
+        original_name: "Treasury"
+        sources:
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000009.semantic.yaml"
+          - "KC-000011.semantic.yaml"
+          - "KC-000012.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000017.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000031.semantic.yaml"
+          - "KC-000032.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+  - id: "CAN-CON-000051"
+    canonical_name: "Value at Risk"
+    aliases:
+      - "Market VaR"
+      - "VAR"
+      - "VaR"
+    abbreviations:
+      - "VAR"
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: "Market Risk Measurement"
+    narrower_concepts:
+      - "Historical Simulation"
+      - "Monte Carlo Simulation"
+      - "Parametric VaR"
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000039"
+        original_name: "Value at Risk"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000052"
+    canonical_name: "Volatility"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000008"
+      - "KC-000013"
+      - "KC-000014"
+      - "KC-000015"
+      - "KC-000016"
+      - "KC-000018"
+      - "KC-000019"
+      - "KC-000021"
+      - "KC-000022"
+      - "KC-000023"
+      - "KC-000025"
+      - "KC-000033"
+      - "KC-000034"
+      - "KC-000036"
+      - "KC-000037"
+      - "KC-000040"
+      - "KC-000041"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000040"
+        original_name: "Volatility"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000008.semantic.yaml"
+          - "KC-000013.semantic.yaml"
+          - "KC-000014.semantic.yaml"
+          - "KC-000015.semantic.yaml"
+          - "KC-000016.semantic.yaml"
+          - "KC-000018.semantic.yaml"
+          - "KC-000019.semantic.yaml"
+          - "KC-000021.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000023.semantic.yaml"
+          - "KC-000025.semantic.yaml"
+          - "KC-000033.semantic.yaml"
+          - "KC-000034.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000037.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000041.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"
+  - id: "CAN-CON-000053"
+    canonical_name: "Yield Curve"
+    aliases: []
+    abbreviations: []
+    alternative_spellings: []
+    equivalent_terms: []
+    broader_concept: ""
+    narrower_concepts: []
+    related_concepts: []
+    source_documents:
+      - "KC-000001"
+      - "KC-000003"
+      - "KC-000005"
+      - "KC-000022"
+      - "KC-000036"
+      - "KC-000040"
+      - "KC-000042"
+    source_items:
+      - original_id: "CON-000041"
+        original_name: "Yield Curve"
+        sources:
+          - "KC-000001.semantic.yaml"
+          - "KC-000003.semantic.yaml"
+          - "KC-000005.semantic.yaml"
+          - "KC-000022.semantic.yaml"
+          - "KC-000036.semantic.yaml"
+          - "KC-000040.semantic.yaml"
+          - "KC-000042.semantic.yaml"
+          - "concepts/MASTER_CONCEPTS.yaml"
+          - "graph/nodes.yaml"

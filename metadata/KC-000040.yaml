@@ -1,0 +1,59 @@
+id: KC-000040
+original_path: "D:\\wrk\\juro\\OpenEyes\\UROSYS OpenEyes_사용자매뉴얼_v0.93.docx"
+relative_path: "OpenEyes\\UROSYS OpenEyes_사용자매뉴얼_v0.93.docx"
+filename: UROSYS OpenEyes_사용자매뉴얼_v0.93.docx
+extension: docx
+size: 5460049
+last_modified: "2026-06-23T13:06:03+09:00"
+sha256: 74d79fc17b85f965b8ccf1e8598353b4cea9c636d1d4aa04869b7bb96b937bd2
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Manual
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "조회 조건 ( a ): 상품 민감도를 조회할 때 사용할 업무구분, 평가 Batch, 시나리오, 종목 , 평가일, 민감도유형, 리스크팩터, 평가그룹, 프라이서 등의 조회 조건을 설정합니다. 조회 조건 (b): 포지션 평가 결과를 조회할 때 사용할 업무구분, 평가 Batch, 시나리오, 결과값유형, 평 가일, 운용펀드, 평가그룹, 프라이서, 포트폴리오명, 종목, 리스크팩터 등의 조회 조건을 설정합니다. 항목명 설명 시나리오 평가에 사용한 시나리오 계약코드 평가를 산출하는 계약의 코드 민감도 유형 해당 민감도의 유형 팩터I D 민감도 산출에 사용한 리스크팩터 1차 민감도 해당 상품의 팩터에 대한 1차 민감도 2차 민감도 해당 상품의 팩터에 대한 2 차 민감도 Cashflow: 해당 Task 에서 계산한 현금흐름 관련 정보가 표시됩니다."
+  topics:
+    - "Counterparty Credit Risk"
+    - "FRTB"
+    - "Pricing"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+  concepts:
+    - "Batch Scheduler"
+    - "Correlation"
+    - "Portfolio"
+    - "Position"
+    - "Risk Factor"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+    - "Yield Curve"
+  formulas:
+    []
+  symbols:
+    - "delta"
+    - "gamma"
+    - "vega"
+  glossary:
+    - term: "FRTB"
+      definition: "Delta/Gamma/Vega/PV01, IR Greeks, FRTB Greeks 등을 선택할 수 있습니다."
+      source_document: "KC-000040"
+  abbreviations:
+    - "FRTB"
+    - "XML"
+  regulations:
+    - "FRTB"
+  organizations:
+    - "JURO"
+    - "UROSYS"
+  domains:
+    - "Credit Risk"
+    - "Market Risk"
+    - "Mathematics"
+    - "Statistics"
+  difficulty: "Intermediate"
+  importance: "Critical"

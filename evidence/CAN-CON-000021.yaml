@@ -1,0 +1,43 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000021"
+  canonical_concept_name: "IFRS 9"
+  concept_summary: "Evidence bundle for IFRS 9; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000221"
+      canonical_concept: "CAN-CON-000021"
+      canonical_concept_name: "IFRS 9"
+      source_document: "KC-000021"
+      source_document_path: "Market\\\\BNK_시장리스크_평가시스템_운영자매뉴얼_v1.0_20200526.docx"
+      section_or_location: "KC-000021.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000003"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000021.semantic.yaml"
+        graph_evidence: "KC-000021 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000003"
+  related_documents:
+    - "KC-000021"
+  related_glossary: []
+  relationship_path:
+    - "IFRS 9"
+    - "Canonical Concept CAN-CON-000021"
+    - "Regulation CAN-REG-000003"
+    - "Supporting Document KC-000021"
+    - "KC-000021 --belongs_to--> IFRS 9"
+    - "Batch Scheduler --belongs_to--> IFRS 9"
+    - "Correlation --belongs_to--> IFRS 9"
+    - "Default --belongs_to--> IFRS 9"
+    - "Parametric VaR --belongs_to--> IFRS 9"
+    - "Portfolio --belongs_to--> IFRS 9"
+    - "Position --belongs_to--> IFRS 9"
+    - "Sensitivity --belongs_to--> IFRS 9"
+  confidence_score: "Medium"

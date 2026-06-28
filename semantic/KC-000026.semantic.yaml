@@ -1,0 +1,26 @@
+id: "KC-000026"
+source_document: "Market\\\\IBKS_시장리스크_업무요건정의서.pdf"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  []
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  []
+regulations:
+  []
+organizations:
+  []
+domains:
+  []
+difficulty: "Introductory"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000026.yaml"
+  text_index: ''

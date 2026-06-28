@@ -1,0 +1,183 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000025"
+  canonical_concept_name: "Margin"
+  concept_summary: "Evidence bundle for Margin; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000239"
+      canonical_concept: "CAN-CON-000025"
+      canonical_concept_name: "Margin"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "KC-000016.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000048"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000018"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "KC-000016 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000240"
+      canonical_concept: "CAN-CON-000025"
+      canonical_concept_name: "Margin"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000048"
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000018"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000241"
+      canonical_concept: "CAN-CON-000025"
+      canonical_concept_name: "Margin"
+      source_document: "KC-000023"
+      source_document_path: "Market\\\\BNK_시장VaR 업무요건정의서_v1.2_20200413.docx"
+      section_or_location: "KC-000023.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000048"
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000023.semantic.yaml"
+        graph_evidence: "KC-000023 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000242"
+      canonical_concept: "CAN-CON-000025"
+      canonical_concept_name: "Margin"
+      source_document: "KC-000025"
+      source_document_path: "Market\\\\BNKS-RM-DS-10900_시장_R프로그램사양서(배치)_v0.1.docx"
+      section_or_location: "KC-000025.semantic.yaml"
+      supporting_formulas:
+        - "CAN-FOR-000048"
+        - "VaR= ( 수량 * 거래 승수 * 정상 가격 * MarginVaR) / S um( 수량 * 거래 승수 * 정상 가격 * MarginVaR) * 포트폴리오 전체 VaR * I n cremental VaR= 정상 포트폴리오 V"
+        - "VaR= Marginal VaR 산출이 되는 특정 상품에 대해 개별 포지션 손익에 {( 시나리오 가격/정상 가격) -1} 을 더해 준 뒤 VaR 를 산출한다"
+      supporting_regulations: []
+      supporting_glossary_terms:
+        - "CAN-GLO-000018"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Formula"
+      traceability:
+        semantic_artifact: "semantic/KC-000025.semantic.yaml"
+        graph_evidence: "KC-000025 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000243"
+      canonical_concept: "CAN-CON-000025"
+      canonical_concept_name: "Margin"
+      source_document: "KC-000033"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-별첨_BNK OTC 추가상품.docx"
+      section_or_location: "KC-000033.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000033.semantic.yaml"
+        graph_evidence: "KC-000033 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000244"
+      canonical_concept: "CAN-CON-000025"
+      canonical_concept_name: "Margin"
+      source_document: "KC-000034"
+      source_document_path: "NCR\\\\BNKS-NC-AN-10100 요건정의서-v1.0.docx"
+      section_or_location: "KC-000034.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000034.semantic.yaml"
+        graph_evidence: "KC-000034 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000245"
+      canonical_concept: "CAN-CON-000025"
+      canonical_concept_name: "Margin"
+      source_document: "KC-000036"
+      source_document_path: "NCR\\\\MIRAE_리스크관리시스템재구축_NCR_요건정의서_v1.3.10b.docx"
+      section_or_location: "KC-000036.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000036.semantic.yaml"
+        graph_evidence: "KC-000036 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas:
+    - "CAN-FOR-000048"
+    - "VaR= ( 수량 * 거래 승수 * 정상 가격 * MarginVaR) / S um( 수량 * 거래 승수 * 정상 가격 * MarginVaR) * 포트폴리오 전체 VaR * I n cremental VaR= 정상 포트폴리오 V"
+    - "VaR= Marginal VaR 산출이 되는 특정 상품에 대해 개별 포지션 손익에 {( 시나리오 가격/정상 가격) -1} 을 더해 준 뒤 VaR 를 산출한다"
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000016"
+    - "KC-000022"
+    - "KC-000023"
+    - "KC-000025"
+    - "KC-000033"
+    - "KC-000034"
+    - "KC-000036"
+  related_glossary:
+    - "CAN-GLO-000018"
+  relationship_path:
+    - "Margin"
+    - "Canonical Concept CAN-CON-000025"
+    - "Formula CAN-FOR-000048"
+    - "Formula VaR= ( 수량 * 거래 승수 * 정상 가격 * MarginVaR) / S um( 수량 * 거래 승수 * 정상 가격 * MarginVaR) * 포트폴리오 전체 VaR * I n cremental VaR= 정상 포트폴리오 V"
+    - "Formula VaR= Marginal VaR 산출이 되는 특정 상품에 대해 개별 포지션 손익에 {( 시나리오 가격/정상 가격) -1} 을 더해 준 뒤 VaR 를 산출한다"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000023"
+    - "Supporting Document KC-000025"
+    - "Supporting Document KC-000033"
+    - "Supporting Document KC-000034"
+    - "Supporting Document KC-000036"
+    - "KC-000016 --contains--> Margin"
+    - "Margin --referenced_by--> KC-000016"
+    - "Margin --belongs_to--> Credit Risk"
+    - "Margin --belongs_to--> Market Risk"
+    - "Margin --belongs_to--> Mathematics"
+    - "Margin --belongs_to--> Optimization"
+    - "Margin --belongs_to--> Regulation"
+    - "Margin --belongs_to--> Statistics"
+  confidence_score: "High"

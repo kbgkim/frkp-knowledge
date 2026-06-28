@@ -1,0 +1,72 @@
+id: KC-000011
+original_path: "D:\\wrk\\juro\\FRTB\\WIB_RMS고도화_FR_테이블정의서_v1.0.xlsx"
+relative_path: "FRTB\\WIB_RMS고도화_FR_테이블정의서_v1.0.xlsx"
+filename: WIB_RMS고도화_FR_테이블정의서_v1.0.xlsx
+extension: xlsx
+size: 196508
+last_modified: "2026-06-23T13:05:25+09:00"
+sha256: 693d6f26d8bc69960bd419fc6b087283ccfe67302bde3a16d696a8b73172cb12
+language: Korean/English
+estimated_domain:
+  - FRTB
+estimated_category: Spreadsheet
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "WIB_RMS고도화_FR_테이블정의서_v1.0.xlsx contains indexed text but few domain-specific extraction signals."
+  topics:
+    - "Counterparty Credit Risk"
+    - "Default Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "P&L"
+    - "Pricing"
+    - "Residual Risk"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  concepts:
+    - "Batch Scheduler"
+    - "Correlation"
+    - "Default"
+    - "Default Risk Charge"
+    - "Loss Given Default"
+    - "Market Data"
+    - "Portfolio"
+    - "Position"
+    - "Residual Risk Add-on"
+    - "Sensitivity"
+    - "Stress Scenario"
+  formulas:
+    - expression: "LGD"
+      source: "keyword/formula candidate occurrence"
+  symbols:
+    - "LGD"
+  glossary:
+    []
+  abbreviations:
+    - "API"
+    - "CLI"
+    - "FRTB"
+    - "FX"
+    - "GIRR"
+    - "LGD"
+    - "RRAO"
+    - "SA"
+  regulations:
+    - "FRTB"
+  organizations:
+    - "JURO"
+    - "UROSYS"
+  domains:
+    - "Credit Risk"
+    - "FRTB"
+    - "Market Risk"
+    - "Mathematics"
+    - "Regulation"
+    - "Statistics"
+    - "Treasury"
+  difficulty: "Advanced"
+  importance: "Critical"

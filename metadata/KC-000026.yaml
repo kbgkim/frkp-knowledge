@@ -1,0 +1,37 @@
+id: KC-000026
+original_path: "D:\\wrk\\juro\\Market\\IBKS_시장리스크_업무요건정의서.pdf"
+relative_path: "Market\\IBKS_시장리스크_업무요건정의서.pdf"
+filename: IBKS_시장리스크_업무요건정의서.pdf
+extension: pdf
+size: 21900151
+last_modified: "2026-06-23T13:05:39+09:00"
+sha256: d68a9597b433603349c10fefc4d8638264a6ea18d1e546c6baecc260416f02f9
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Technical
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    []
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    []
+  regulations:
+    []
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Critical"

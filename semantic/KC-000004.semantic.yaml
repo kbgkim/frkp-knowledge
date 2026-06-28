@@ -1,0 +1,29 @@
+id: "KC-000004"
+source_document: "FRTB\\\\업무매뉴얼\\\\210115 바젤Ⅲ 최종안 기준 시장리스크 규제체계 기준서(금융감독원)_.pdf"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  - "Basel III"
+  - "FRTB"
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  - "FRTB"
+regulations:
+  - "Basel III"
+  - "FRTB"
+  - "Korean Financial Supervisory Regulation"
+organizations:
+  - "FSS"
+domains:
+  - "FRTB"
+difficulty: "Introductory"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000004.yaml"
+  text_index: ''

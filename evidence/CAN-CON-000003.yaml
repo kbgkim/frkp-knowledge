@@ -1,0 +1,219 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000003"
+  canonical_concept_name: "Basel II"
+  concept_summary: "Evidence bundle for Basel II; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000015"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "KC-000001.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "KC-000001 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000016"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "KC-000003.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000002"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "KC-000003 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000017"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000005"
+      source_document_path: "FRTB\\\\Basel3_개정SA정리_20210616.pptx"
+      section_or_location: "KC-000005.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000005.semantic.yaml"
+        graph_evidence: "KC-000005 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000018"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000013"
+      source_document_path: "FRTB\\\\WIB바젤III_설계_데이터매핑설계서_v0.105.xlsx"
+      section_or_location: "KC-000013.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000013.semantic.yaml"
+        graph_evidence: "KC-000013 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000019"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000014"
+      source_document_path: "FRTB\\\\WIB바젤III_설계_데이터매핑설계서(지주전송)_v0.100.xlsx"
+      section_or_location: "KC-000014.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000014.semantic.yaml"
+        graph_evidence: "KC-000014 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000020"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000015"
+      source_document_path: "Market\\\\130625_리스크_시장VaR_분석_요건정의서_V1.4_암호화해제.docx"
+      section_or_location: "KC-000015.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000015.semantic.yaml"
+        graph_evidence: "KC-000015 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000021"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "KC-000016.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "KC-000016 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000022"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000002"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000023"
+      canonical_concept: "CAN-CON-000003"
+      canonical_concept_name: "Basel II"
+      source_document: "KC-000042"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_제품소개자료_230512.pptx"
+      section_or_location: "KC-000042.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Medium"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000042.semantic.yaml"
+        graph_evidence: "KC-000042 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000005"
+    - "KC-000013"
+    - "KC-000014"
+    - "KC-000015"
+    - "KC-000016"
+    - "KC-000022"
+    - "KC-000042"
+  related_glossary:
+    - "CAN-GLO-000002"
+  relationship_path:
+    - "Basel II"
+    - "Canonical Concept CAN-CON-000003"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000005"
+    - "Supporting Document KC-000013"
+    - "Supporting Document KC-000014"
+    - "Supporting Document KC-000015"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000042"
+    - "KC-000001 --references--> Basel II"
+    - "Backtesting --regulated_by--> Basel II"
+    - "Batch Scheduler --regulated_by--> Basel II"
+    - "Capital Requirement --regulated_by--> Basel II"
+    - "Correlation --regulated_by--> Basel II"
+    - "Data Loader --regulated_by--> Basel II"
+    - "Default --regulated_by--> Basel II"
+    - "Default Risk Charge --regulated_by--> Basel II"
+  confidence_score: "High"

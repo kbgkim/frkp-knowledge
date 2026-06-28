@@ -1,0 +1,37 @@
+id: KC-000039
+original_path: "D:\\wrk\\juro\\NCR\\NCR요건정의서_별첨.pdf"
+relative_path: "NCR\\NCR요건정의서_별첨.pdf"
+filename: NCR요건정의서_별첨.pdf
+extension: pdf
+size: 19102007
+last_modified: "2026-06-23T13:05:51+09:00"
+sha256: 87e5a55396264fc5028f64fa93fd18c556e93b0983bae0d2acc7c3b72cb22e23
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Technical
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    - "NCR"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "NCR"
+  regulations:
+    - "NCR Regulation"
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Critical"

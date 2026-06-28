@@ -1,0 +1,60 @@
+id: "KC-000014"
+source_document: "FRTB\\\\WIB바젤III_설계_데이터매핑설계서(지주전송)_v0.100.xlsx"
+summary: "(정상상황) 평가 정보 및 외화표시상품의 환율민감도 정보 | BD02. (정상상황) 금리 델타 민감도 정보 | BD03. (정상상황) 상품 델타 민감도 정보 | BD04."
+topics:
+  - "Basel II"
+  - "Basel III"
+  - "Default Risk"
+  - "FRTB"
+  - "Market Risk"
+  - "P&L"
+  - "Pricing"
+  - "Residual Risk"
+  - "Sensitivity"
+  - "Statistics"
+  - "Stress Testing"
+concepts:
+  - "Default"
+  - "Default Risk Charge"
+  - "Loss Given Default"
+  - "Position"
+  - "Residual Risk Add-on"
+  - "Risk Charge"
+  - "Sensitivity"
+  - "Stress Scenario"
+  - "Volatility"
+formulas:
+  - expression: "LGD"
+    source: "keyword/formula candidate occurrence"
+symbols:
+  - "LGD"
+glossary:
+  []
+abbreviations:
+  - "CSR"
+  - "CVR"
+  - "FRTB"
+  - "FSS"
+  - "FX"
+  - "GIRR"
+  - "LGD"
+  - "OTC"
+  - "SA"
+regulations:
+  - "Basel II"
+  - "Basel III"
+  - "FRTB"
+organizations:
+  - "JURO"
+domains:
+  - "Credit Risk"
+  - "FRTB"
+  - "Market Risk"
+  - "Mathematics"
+  - "Regulation"
+  - "Statistics"
+difficulty: "Intermediate"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000014.yaml"
+  text_index: "index/KC-000014.txt"

@@ -1,0 +1,27 @@
+id: "KC-000028"
+source_document: "NCR\\\\업무매뉴얼\\\\[별표 5] 금융투자업자의 위험액 산정기준(제2-4조 관련)(금융투자업규정시행세칙).pdf"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  - "NCR"
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  - "NCR"
+regulations:
+  - "Korean Financial Supervisory Regulation"
+  - "NCR Regulation"
+organizations:
+  []
+domains:
+  []
+difficulty: "Introductory"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000028.yaml"
+  text_index: ''

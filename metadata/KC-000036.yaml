@@ -1,0 +1,111 @@
+id: KC-000036
+original_path: "D:\\wrk\\juro\\NCR\\MIRAE_리스크관리시스템재구축_NCR_요건정의서_v1.3.10b.docx"
+relative_path: "NCR\\MIRAE_리스크관리시스템재구축_NCR_요건정의서_v1.3.10b.docx"
+filename: MIRAE_리스크관리시스템재구축_NCR_요건정의서_v1.3.10b.docx
+extension: docx
+size: 1671105
+last_modified: "2026-06-23T13:05:51+09:00"
+sha256: e0642e229da23cdff5aea9c93df05c446819e2c41904e852521db0a0e5f6437c
+language: Korean/English
+estimated_domain:
+  - Internal
+estimated_category: Technical
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "상품 (자산)유형 위험액유형구분 적 용 위험값 예금 및 예치금 신용위험액 거래상대방별 위험값 적용 대출채권 신용위험액 거래상대방별 위험값 적용 유가증권 대여 및 차입 신용위험액 거래상대방별 위험값 + 시장위험값 적용 환매조건부채권(매수/매도 ) 신용위험액 거래상대방별 위험값 + 시장위험값 적용 대여금/미수금/미수수익 신용위험액 거래상대방별 위험값 적용 장외파생상품 신용위험액 거래상대방별 위험값 기타자산 신용위험액 계정별위험값 적용 채무보증 신용위험액 거래상대방별 위험값 적용 [ 표 STYLEREF 1 \\s 4 SEQ 표 \\* ARABIC \\s 1 2 ] 신용위험액 유형 구분 신용위험액 산출 기초 데이터 입수 비시장성자산 상품유형별 원천 시스템을 통해 포지션 정보 , 담보정보, 상품속성 정보 등 위험액 산출을 위해 필요한 기초정보를 입수하여 통합 R D M (Risk Data Mart) 파트의 RM00N600 ( 통합포지션정보) 테이블에 적재함. [ 금융투자업자의 NCR 산정기준 해설] [적격금융기관] ( 『금 융투자업규정시행세칙』 별표 4 ) - 국내은행, 투자매매업자와 투자중개업자(겸영 투자매매업자와 겸영 투자중개업자는 제외) , 보험회사, 종합금융회사(다만, 적기시정조치의 기준이 되는 건전성 기준을 충족하지 못하는 금융회사는 제외) - 농협, 수협, 우체국 - 한국거래소, 한국예탁결제원, 한국증권금융 - 한국은행, 예금보험공사, 자산관리공사 - 외국의 은행, 금융투자업자, 보험회사로서 신용등급이 A- 이상인 금융회사 예금예치금콜론 위험액 산출 별도 위험값 적용대상 을 제외한 포지션에 대해 장부금액과 거래상대방별 위험값을 곱한 금액을 신용위험액으로 정의함 . R M04N540( 신용집중위험액산출기본)테이블은 거래상대방별 위험액결과정보를 적재하는 테이블 로 본 테이블을 구성하는 상세 컬럼 및 유효값은 다음과 같음 신용집중위험액산출기본 (R M04N540) 컬럼논리명 컬럼설명..."
+  topics:
+    - "Counterparty Credit Risk"
+    - "Credit Risk"
+    - "Expected Shortfall"
+    - "Market Risk"
+    - "NCR"
+    - "Operational Risk"
+    - "OTC Derivatives"
+    - "P&L"
+    - "Pricing"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  concepts:
+    - "Batch Scheduler"
+    - "Capital Ratio"
+    - "Data Loader"
+    - "Default"
+    - "Margin"
+    - "Market Data"
+    - "Net Capital Ratio"
+    - "Portfolio"
+    - "Position"
+    - "Risk Charge"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+    - "Yield Curve"
+  formulas:
+    - expression: "ES"
+      source: "keyword/formula candidate occurrence"
+    - expression: "NCR"
+      source: "keyword/formula candidate occurrence"
+    - expression: "F = 1 / (1 + r t ) t t = ( 선물만기일 – 위험 평가일) / 365 r t = 할인금리커브에서 t 시점의 이자율을 선형보간하여 얻음 ※ 국채 수익률커브 (현물이자율 커브) 생성시 적용 Convention"
+      source: "inline mathematical expression"
+    - expression: "i = CF i x DF i D Fi (Discount Factor) = 1 / (1 + r i ) t i t i = ( 지급일 i – 위험 평가일) / 365 r i = 할인금리커브에서 t i 시점의 이자율을 선형보간하여"
+      source: "inline mathematical expression"
+    - expression: "KOSPI = KOSPI 원화환산 익스포져 ×8% 차익거래위험액 차익거래 포지션에 대하여 개별/일반 위험액 산정 대신 차익거래 위험액 산정 가능 6350 95723 0 0 차익거래위험액 = MAX |계약금액| x 위험값(2%)/각"
+      source: "inline mathematical expression"
+  symbols:
+    - "ES"
+    - "sigma"
+  glossary:
+    - term: "Default"
+      definition: "R M04N540( 신용집중위험액산출기본)테이블은 거래상대방별 위험액결과정보를 적재하는 테이블 로 본 테이블을 구성하는 상세 컬럼 및 유효값은 다음과 같음 신용집중위험액산출기본 (R M04N540) 컬럼논리명 컬럼설명 유효값 회사코드 미래에셋그룹의 회사코드 DEFAULT : 005 미래에셋증권 기준일자 기준일자 RM작업구분코드 테이블 작업 주기 D : daily M : monthly 시나리오ID DEFAULT : 1 RM조직코드 RM조직코드 거래상대방I D 거래상대방 법인번호 혹은 사업자번호 R M 금리위험금액 R M 금리위험금액"
+      source_document: "KC-000036"
+    - term: "NCR"
+      definition: "PAGEREF _Toc132153500 \\h 8 1.1 NCR 개요"
+      source_document: "KC-000036"
+  abbreviations:
+    - "ABCP"
+    - "ABS"
+    - "ABSTB"
+    - "BIS"
+    - "CB"
+    - "CD"
+    - "CMA"
+    - "CP"
+    - "CPS"
+    - "DR"
+    - "EB"
+    - "ELS"
+    - "EOD"
+    - "ES"
+    - "ETF"
+    - "EUREX"
+    - "FX"
+    - "IRS"
+    - "KRX"
+    - "MBS"
+    - "NCR"
+    - "OTC"
+    - "PBS"
+    - "PD"
+    - "PI"
+    - "RCPS"
+    - "TRS"
+  regulations:
+    - "Korean Financial Supervisory Regulation"
+    - "NCR Regulation"
+  organizations:
+    - "BIS"
+    - "FSC"
+    - "FSS"
+  domains:
+    - "Credit Risk"
+    - "Market Risk"
+    - "Operational Risk"
+    - "Regulation"
+    - "Statistics"
+    - "Treasury"
+  difficulty: "Expert"
+  importance: "Critical"

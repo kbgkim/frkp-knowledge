@@ -1,0 +1,47 @@
+id: KC-000020
+original_path: "D:\\wrk\\juro\\Market\\BNK_시장리스크_평가시스템_사용자매뉴얼_v1.0_20200526.docx"
+relative_path: "Market\\BNK_시장리스크_평가시스템_사용자매뉴얼_v1.0_20200526.docx"
+filename: BNK_시장리스크_평가시스템_사용자매뉴얼_v1.0_20200526.docx
+extension: docx
+size: 1545589
+last_modified: "2026-06-23T13:05:39+09:00"
+sha256: f4717822c78bfc4ae4a0fdf9788ed10d4d9542379d61ff8d14ec550b1d7b7f0e
+language: Korean/English
+estimated_domain:
+  - Stress Testing
+estimated_category: Manual
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "기능 중메뉴 설명 R EQ 모니터링 고객 사에서 보유한 상품을 평가하기 위해 요청된 대상 종목들의 정보 및 상태를 조회하는 기능 J OB 모니터링 평가요청 된 상품들의 TASK 현황 및 상태를 조회하는 기능 상품유형 관리 상품 유형 코드 별로 매치되는 평가 모듈 ID 를 확인하는 기능 평가모듈 관리 평가모듈 ID 와 평가 모듈 몇, 파일경로를 확인하는 기능 평과결과 비교 평가 결과를 기간별로 조회할 수 있는 기능 O TC 계산기 특정 종목의 Input 데이터를 설정하고 평가가격 및 민감도를 계산하는 기능 평가서버 모니터링 평가 서버의 정보 및 상태를 조회하는 기능 화면 설명 R EQ 모니터링 개요 factorCodes의 수와 시나리오값의 수가 불일치 R EQ ID REQ ID 는 클라이언트 평가 요청을 하거나 혹은 배치 작업이 이뤄질 때, 요청 별로 유니크하게 생성되는 ID 이다. 화면상세설명 및 레이아웃 화면경로 [시장리스크 ]-[OTC]-[ 평가결과 비교 ] 화면레이아웃 화면기능 상세설명 먼저 평가가 이루어진 날짜에 대하여 조회기간을 설정한다."
+  topics:
+    - "Market Risk"
+    - "OTC Derivatives"
+    - "Pricing"
+    - "Sensitivity"
+    - "Stress Testing"
+  concepts:
+    - "Batch Scheduler"
+    - "Default"
+    - "Position"
+    - "Sensitivity"
+    - "Stress Scenario"
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "KIS"
+    - "OTC"
+  regulations:
+    []
+  organizations:
+    - "JURO"
+  domains:
+    - "Market Risk"
+    - "Stress Testing"
+  difficulty: "Intermediate"
+  importance: "High"

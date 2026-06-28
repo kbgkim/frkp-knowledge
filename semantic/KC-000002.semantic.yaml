@@ -1,0 +1,26 @@
+id: "KC-000002"
+source_document: "EzFrame\\\\UROSYS_ezFrame 소개자료_JURO_202407.pdf"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  []
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  []
+regulations:
+  []
+organizations:
+  []
+domains:
+  []
+difficulty: "Introductory"
+importance: "Low"
+traceability:
+  metadata: "metadata/KC-000002.yaml"
+  text_index: ''

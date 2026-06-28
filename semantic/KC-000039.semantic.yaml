@@ -1,0 +1,26 @@
+id: "KC-000039"
+source_document: "NCR\\\\NCR요건정의서_별첨.pdf"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  - "NCR"
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  - "NCR"
+regulations:
+  - "NCR Regulation"
+organizations:
+  []
+domains:
+  []
+difficulty: "Introductory"
+importance: "Critical"
+traceability:
+  metadata: "metadata/KC-000039.yaml"
+  text_index: ''

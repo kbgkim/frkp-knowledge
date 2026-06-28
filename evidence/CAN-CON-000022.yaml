@@ -1,0 +1,164 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000022"
+  canonical_concept_name: "Java"
+  concept_summary: "Evidence bundle for Java; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000222"
+      canonical_concept: "CAN-CON-000022"
+      canonical_concept_name: "Java"
+      source_document: "KC-000007"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_배포매뉴얼_v0.9.docx"
+      section_or_location: "KC-000007.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms:
+        - "CAN-GLO-000015"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000007.semantic.yaml"
+        graph_evidence: "KC-000007 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000223"
+      canonical_concept: "CAN-CON-000022"
+      canonical_concept_name: "Java"
+      source_document: "KC-000009"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_설치매뉴얼.docx"
+      section_or_location: "KC-000009.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms:
+        - "CAN-GLO-000015"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000009.semantic.yaml"
+        graph_evidence: "KC-000009 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000224"
+      canonical_concept: "CAN-CON-000022"
+      canonical_concept_name: "Java"
+      source_document: "KC-000010"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_운영자매뉴얼_v1.0.docx"
+      section_or_location: "KC-000010.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms:
+        - "CAN-GLO-000015"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000010.semantic.yaml"
+        graph_evidence: "KC-000010 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000225"
+      canonical_concept: "CAN-CON-000022"
+      canonical_concept_name: "Java"
+      source_document: "KC-000017"
+      source_document_path: "Market\\\\시장리스크 엔진 설치 가이드(Linux).docx"
+      section_or_location: "KC-000017.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms:
+        - "CAN-GLO-000015"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Definition"
+      traceability:
+        semantic_artifact: "semantic/KC-000017.semantic.yaml"
+        graph_evidence: "KC-000017 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000226"
+      canonical_concept: "CAN-CON-000022"
+      canonical_concept_name: "Java"
+      source_document: "KC-000018"
+      source_document_path: "Market\\\\BNK_시장리스크_배치_운영자매뉴얼_v1.1_20200601.docx"
+      section_or_location: "KC-000018.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms:
+        - "CAN-GLO-000015"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Formula"
+      traceability:
+        semantic_artifact: "semantic/KC-000018.semantic.yaml"
+        graph_evidence: "KC-000018 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000227"
+      canonical_concept: "CAN-CON-000022"
+      canonical_concept_name: "Java"
+      source_document: "KC-000037"
+      source_document_path: "NCR\\\\NCR_배치사양서_통합_v1.0.docx"
+      section_or_location: "KC-000037.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000015"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000037.semantic.yaml"
+        graph_evidence: "KC-000037 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000228"
+      canonical_concept: "CAN-CON-000022"
+      canonical_concept_name: "Java"
+      source_document: "KC-000041"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_운영자매뉴얼_v0.90.docx"
+      section_or_location: "KC-000041.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms:
+        - "CAN-GLO-000015"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Definition"
+      traceability:
+        semantic_artifact: "semantic/KC-000041.semantic.yaml"
+        graph_evidence: "KC-000041 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000002"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000007"
+    - "KC-000009"
+    - "KC-000010"
+    - "KC-000017"
+    - "KC-000018"
+    - "KC-000037"
+    - "KC-000041"
+  related_glossary:
+    - "CAN-GLO-000015"
+  relationship_path:
+    - "Java"
+    - "Canonical Concept CAN-CON-000022"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000007"
+    - "Supporting Document KC-000009"
+    - "Supporting Document KC-000010"
+    - "Supporting Document KC-000017"
+    - "Supporting Document KC-000018"
+    - "Supporting Document KC-000037"
+    - "Supporting Document KC-000041"
+    - "KC-000001 --belongs_to--> Java"
+    - "Backtesting --belongs_to--> Java"
+    - "Batch Scheduler --belongs_to--> Java"
+    - "Capital Requirement --belongs_to--> Java"
+    - "Correlation --belongs_to--> Java"
+    - "Data Loader --belongs_to--> Java"
+    - "Default --belongs_to--> Java"
+    - "Default Risk Charge --belongs_to--> Java"
+  confidence_score: "High"

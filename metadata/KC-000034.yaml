@@ -1,0 +1,112 @@
+id: KC-000034
+original_path: "D:\\wrk\\juro\\NCR\\BNKS-NC-AN-10100 요건정의서-v1.0.docx"
+relative_path: "NCR\\BNKS-NC-AN-10100 요건정의서-v1.0.docx"
+filename: BNKS-NC-AN-10100 요건정의서-v1.0.docx
+extension: docx
+size: 1670323
+last_modified: "2026-06-23T13:05:51+09:00"
+sha256: fd07b6954719d42bc11ad3e368b8cb307ea4b0d16f13e1386477486ab072b6d6
+language: Korean/English
+estimated_domain:
+  - CCR
+  - Credit Risk
+  - Mathematics
+  - Internal
+estimated_category: Technical
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "영업용순자본비율 = 영업용순자본 시장위험액 + 신용위험액 + 운영위험액 × 100(%) 순자본비율 = 영업용순자본 -( 시장위험액 + 신용위험액 + 운영위험액 ) 법정자기자본 ×70% × 100(%) 영업용순자본 , 시장위험액 , 신용위험액 , 운영위험액 및 법정자기자본의 산정을 위한 업무요건은 다음 각 장에서 상세히 기술한다 산정 프로세스 민감도 및 변동성 데이터 처리방안 ( 추후 ) 산정 대상 L1 L2 L3 차 감 가 산 주 식 금 리 외 환 집 투 상 품 옵 션 신 용 채권 국내채권 주식관련사채 ◐ ◐ ◐ 사모사채 ◐ ◐ ◐ ◐ ◐ 신주인수권증서 및 증권 ● ◐ ◐ 주식워런트증권 ● ● 장내파생옵션 옵션 주식옵션 ● ● 통화옵션 ● ● 장외파생상품 옵션 주식옵션 ● ◐ ● 금리옵션 ● ◐ ● 신용옵션 ◐ ● 통화옵션 ◐ ● 기타옵션 ◐ ● ● 기타 Range Accrual ● ◐ ● 주식관련채권 (CB ,EB,BW ) 주식관련채권은 행사가능기간과 기초주식의 가격 및 행사가격에 따라 옵션위험액 산정대상이 될 수 있다 실제 시나리오 적용 : 기존 포트폴리오에 특정 주식을 포함하여 유동성 및 분산도 충족여부를 재판단하여 위험액 및 NCR 산정 보수적 시나리오 적용 : 기존 포트폴리오의 위험액값은 고정시킨 후 추가되는 주식은 모두 유동성 및 분산도를 미충족으로 가정하여 개별위험값 12% 를 적용하고 , 그외 추가 포지션에 대한 위험액값만 기존 포트폴리오의 위험액값에 단순합산하여 전체 위험액 및 NCR 산정 ."
+  topics:
+    - "Counterparty Credit Risk"
+    - "Credit Risk"
+    - "Market Risk"
+    - "NCR"
+    - "Operational Risk"
+    - "OTC Derivatives"
+    - "P&L"
+    - "Pricing"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  concepts:
+    - "Batch Scheduler"
+    - "Capital Ratio"
+    - "Default"
+    - "Loss Given Default"
+    - "Margin"
+    - "Market Data"
+    - "Net Capital Ratio"
+    - "Parametric VaR"
+    - "Portfolio"
+    - "Position"
+    - "Probability of Default"
+    - "Risk Charge"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+  formulas:
+    - expression: "PFE"
+      source: "keyword/formula candidate occurrence"
+    - expression: "PD"
+      source: "keyword/formula candidate occurrence"
+    - expression: "LGD"
+      source: "keyword/formula candidate occurrence"
+    - expression: "NCR"
+      source: "keyword/formula candidate occurrence"
+    - expression: "EL = CE x PD x LGD 변수 적용방안 CE (Credit Exposure) CCE + PFE CCE (Counterparty Credit Exposure) 대체비용 - 가상채권 대체비용 평가금액 (IFRS) + 경"
+      source: "inline mathematical expression"
+  symbols:
+    - "LGD"
+    - "PD"
+    - "PFE"
+  glossary:
+    - term: "NCR"
+      definition: "NCR 산정의 기본 원칙 PAGEREF _Toc17128669 \\h 8 2."
+      source_document: "KC-000034"
+  abbreviations:
+    - "ABS"
+    - "BIS"
+    - "CCR"
+    - "CD"
+    - "CDS"
+    - "CMA"
+    - "CP"
+    - "DOTM"
+    - "ELS"
+    - "FRA"
+    - "FX"
+    - "IFRS"
+    - "KIS"
+    - "KRW"
+    - "KRX"
+    - "LGD"
+    - "NCR"
+    - "OTC"
+    - "PD"
+    - "PFE"
+    - "PI"
+    - "TRS"
+    - "VB"
+    - "VD"
+    - "VU"
+  regulations:
+    - "Korean Financial Supervisory Regulation"
+    - "NCR Regulation"
+  organizations:
+    - "BIS"
+    - "FSS"
+    - "JURO"
+  domains:
+    - "CCR"
+    - "Credit Risk"
+    - "Market Risk"
+    - "Mathematics"
+    - "Operational Risk"
+    - "Regulation"
+    - "Statistics"
+    - "Treasury"
+  difficulty: "Expert"
+  importance: "Critical"

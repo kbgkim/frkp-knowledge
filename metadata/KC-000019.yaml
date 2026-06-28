@@ -1,0 +1,68 @@
+id: KC-000019
+original_path: "D:\\wrk\\juro\\Market\\BNK_시장리스크_측정시스템_사용자매뉴얼_v1.0_20200526.docx"
+relative_path: "Market\\BNK_시장리스크_측정시스템_사용자매뉴얼_v1.0_20200526.docx"
+filename: BNK_시장리스크_측정시스템_사용자매뉴얼_v1.0_20200526.docx
+extension: docx
+size: 5352942
+last_modified: "2026-06-23T13:05:39+09:00"
+sha256: d0b7dc0e088d535ecea918d62e5478ce92964f410e12796ef8bb0be430b2dd78
+language: Korean/English
+estimated_domain:
+  - Market Risk
+  - Stress Testing
+  - Internal
+estimated_category: Manual
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "범위 본 문서에서는 일반사용자를 위한 시장데이터, VaR 조회 및 시나리오 테스트, 사후검증 등을 설명한다. 포트폴리오 - 포트폴리오 손익 조회, 미평가자산, 손익수기, 자금비용을 관리한다. 시장지표, 손익 및 Market VaR 현황, Stress Test결과 , 포지션 현황, Back Test 현황, 민감도 현황, 시장리스크 VaR 를 조회한다."
+  topics:
+    - "Backtesting"
+    - "Expected Shortfall"
+    - "Market Risk"
+    - "OTC Derivatives"
+    - "P&L"
+    - "Pricing"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+    - "Value at Risk"
+  concepts:
+    - "Backtesting"
+    - "Batch Scheduler"
+    - "Correlation"
+    - "Historical Simulation"
+    - "Market Data"
+    - "Portfolio"
+    - "Position"
+    - "Risk Factor"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+  formulas:
+    - expression: "VaR"
+      source: "keyword/formula candidate occurrence"
+    - expression: "ES"
+      source: "keyword/formula candidate occurrence"
+  symbols:
+    - "ES"
+    - "VaR"
+  glossary:
+    []
+  abbreviations:
+    - "ES"
+    - "OTC"
+    - "VaR"
+  regulations:
+    []
+  organizations:
+    - "JURO"
+  domains:
+    - "Market Risk"
+    - "Statistics"
+    - "Stress Testing"
+    - "Treasury"
+  difficulty: "Advanced"
+  importance: "High"

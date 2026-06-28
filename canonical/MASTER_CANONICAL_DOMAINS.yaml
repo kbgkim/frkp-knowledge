@@ -1,0 +1,132 @@
+canonical_domains:
+  - id: "CAN-DOM-000001"
+    canonical_domain: "ALM"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "ALM"
+  - id: "CAN-DOM-000002"
+    canonical_domain: "Basel"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Basel"
+  - id: "CAN-DOM-000003"
+    canonical_domain: "Basel II"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Basel II"
+  - id: "CAN-DOM-000004"
+    canonical_domain: "Basel III"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Basel III"
+  - id: "CAN-DOM-000005"
+    canonical_domain: "Counterparty Credit Risk"
+    aliases:
+      - "CCR"
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "CCR"
+  - id: "CAN-DOM-000006"
+    canonical_domain: "Credit Risk"
+    aliases: []
+    parent_domain: "Risk Management"
+    child_domains: []
+    source_domains:
+      - "Credit Risk"
+  - id: "CAN-DOM-000007"
+    canonical_domain: "IFRS 9"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "IFRS 9"
+  - id: "CAN-DOM-000008"
+    canonical_domain: "Java"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Java"
+  - id: "CAN-DOM-000009"
+    canonical_domain: "Mathematics"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Mathematics"
+  - id: "CAN-DOM-000010"
+    canonical_domain: "Operational Risk"
+    aliases: []
+    parent_domain: "Risk Management"
+    child_domains: []
+    source_domains:
+      - "Operational Risk"
+  - id: "CAN-DOM-000011"
+    canonical_domain: "Optimization"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Optimization"
+  - id: "CAN-DOM-000012"
+    canonical_domain: "Quantitative Risk Methods"
+    aliases:
+      - "Statistics"
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Statistics"
+  - id: "CAN-DOM-000013"
+    canonical_domain: "Regulatory Capital"
+    aliases:
+      - "Regulation"
+    parent_domain: "Risk Management"
+    child_domains:
+      - "Basel Framework"
+      - "Korean Net Capital Ratio Regulation"
+      - "Net Capital Regulation"
+    source_domains:
+      - "Regulation"
+  - id: "CAN-DOM-000014"
+    canonical_domain: "Research"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Research"
+  - id: "CAN-DOM-000015"
+    canonical_domain: "Stress Testing"
+    aliases: []
+    parent_domain: ""
+    child_domains: []
+    source_domains:
+      - "Stress Testing"
+  - id: "CAN-DOM-000016"
+    canonical_domain: "Trading Book Market Risk"
+    aliases:
+      - "FRTB"
+      - "Market Risk"
+    parent_domain: "Risk Management"
+    child_domains:
+      - "Market Risk Measurement"
+      - "Fundamental Review of the Trading Book"
+    source_domains:
+      - "FRTB"
+      - "Market Risk"
+  - id: "CAN-DOM-000017"
+    canonical_domain: "Treasury and Liquidity Risk"
+    aliases:
+      - "Treasury"
+    parent_domain: "Risk Management"
+    child_domains: []
+    source_domains:
+      - "Treasury"

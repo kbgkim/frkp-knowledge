@@ -1,0 +1,26 @@
+id: "KC-000024"
+source_document: "Market\\\\BNKS-RM-DS-10800 시장_프로그램 목록_v0.1.xls"
+summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+topics:
+  []
+concepts:
+  []
+formulas:
+  []
+symbols:
+  []
+glossary:
+  []
+abbreviations:
+  []
+regulations:
+  []
+organizations:
+  []
+domains:
+  []
+difficulty: "Introductory"
+importance: "Low"
+traceability:
+  metadata: "metadata/KC-000024.yaml"
+  text_index: ''

@@ -1,0 +1,85 @@
+{
+  "source_root": "D:\\wrk\\juro",
+  "output_root": "D:\\wrk\\frkp-knowledge",
+  "generated_at": "2026-06-28T13:02:41.1264376+09:00",
+  "total_scanned_files": 42,
+  "supported_documents": 42,
+  "indexed_documents": 31,
+  "ignored_files": 0,
+  "duplicate_candidate_groups": 3,
+  "unknown_documents": 10,
+  "domains": [
+    {
+      "domain": "FRTB",
+      "count": 15
+    },
+    {
+      "domain": "Internal",
+      "count": 15
+    },
+    {
+      "domain": "Market Risk",
+      "count": 11
+    },
+    {
+      "domain": "Stress Testing",
+      "count": 11
+    },
+    {
+      "domain": "Unknown",
+      "count": 10
+    },
+    {
+      "domain": "Credit Risk",
+      "count": 9
+    },
+    {
+      "domain": "Java",
+      "count": 7
+    },
+    {
+      "domain": "Basel",
+      "count": 5
+    },
+    {
+      "domain": "Statistics",
+      "count": 4
+    },
+    {
+      "domain": "Basel II",
+      "count": 2
+    },
+    {
+      "domain": "Basel III",
+      "count": 2
+    },
+    {
+      "domain": "Mathematics",
+      "count": 2
+    },
+    {
+      "domain": "Optimization",
+      "count": 2
+    },
+    {
+      "domain": "Treasury",
+      "count": 2
+    },
+    {
+      "domain": "ALM",
+      "count": 1
+    },
+    {
+      "domain": "CCR",
+      "count": 1
+    },
+    {
+      "domain": "IFRS 9",
+      "count": 1
+    },
+    {
+      "domain": "Research",
+      "count": 1
+    }
+  ]
+}

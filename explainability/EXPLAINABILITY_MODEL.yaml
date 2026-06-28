@@ -1,0 +1,21 @@
+explainability_model:
+  retrieval_principle: "Evidence-first retrieval. A result is returnable only when linked to at least one evidence record with a source document."
+  required_answer_fields:
+    - "why_returned"
+    - "evidence_supporting_result"
+    - "documents_contributed"
+    - "canonical_concept_matched"
+    - "relationship_path_followed"
+  confidence_policy:
+    High: "Direct semantic concept or glossary evidence in a source document."
+    Medium: "Direct canonical source document evidence or semantic alias/topic evidence."
+    Low: "Cross-reference evidence from a supported broader/narrower/related concept only."
+  unsupported_policy: "Do not return unsupported concepts as factual answers; surface them only as unsupported validation findings."
+  traceability_fields:
+    - "evidence_id"
+    - "canonical_concept"
+    - "source_document"
+    - "source_document_path"
+    - "section_or_location"
+    - "semantic_artifact"
+    - "graph_evidence"

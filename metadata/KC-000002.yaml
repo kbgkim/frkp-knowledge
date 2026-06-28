@@ -1,0 +1,37 @@
+id: KC-000002
+original_path: "D:\\wrk\\juro\\EzFrame\\UROSYS_ezFrame 소개자료_JURO_202407.pdf"
+relative_path: "EzFrame\\UROSYS_ezFrame 소개자료_JURO_202407.pdf"
+filename: UROSYS_ezFrame 소개자료_JURO_202407.pdf
+extension: pdf
+size: 1733271
+last_modified: "2026-06-23T13:05:15+09:00"
+sha256: 52834f909cd91a011fd2d69904508e64ffe9e566bc85919c84fc3a3913fc986a
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Document
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    []
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    []
+  regulations:
+    []
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Low"

@@ -1,0 +1,186 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000040"
+  canonical_concept_name: "Regulatory Capital"
+  concept_summary: "Evidence bundle for Regulatory Capital; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000463"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+    - evidence_id: "EVD-000464"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000003"
+      source_document_path: "FRTB\\\\바젤 III 표준방법 시장리스크(FRTB) 소개.pptx"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000003.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+    - evidence_id: "EVD-000465"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+    - evidence_id: "EVD-000466"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+    - evidence_id: "EVD-000467"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000023"
+      source_document_path: "Market\\\\BNK_시장VaR 업무요건정의서_v1.2_20200413.docx"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000023.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+    - evidence_id: "EVD-000468"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000027"
+      source_document_path: "NCR\\\\1801_금융투자업자_NCR 산정기준 해설_.pdf"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000027.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+    - evidence_id: "EVD-000469"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000028"
+      source_document_path: "NCR\\\\업무매뉴얼\\\\[별표 5] 금융투자업자의 위험액 산정기준(제2-4조 관련)(금융투자업규정시행세칙).pdf"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000028.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+    - evidence_id: "EVD-000470"
+      canonical_concept: "CAN-CON-000040"
+      canonical_concept_name: "Regulatory Capital"
+      source_document: "KC-000029"
+      source_document_path: "NCR\\\\업무매뉴얼\\\\1801_금융투자업자_NCR 산정기준 해설_.pdf"
+      section_or_location: "canonical cross-reference via Net Capital Ratio"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "Low"
+      evidence_type: "Cross Reference"
+      traceability:
+        semantic_artifact: "semantic/KC-000029.semantic.yaml"
+        graph_evidence: "canonical cross-reference via Net Capital Ratio"
+        source_preserved: "true"
+  related_concepts:
+    - "Net Capital Ratio"
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000003"
+    - "KC-000016"
+    - "KC-000022"
+    - "KC-000023"
+    - "KC-000027"
+    - "KC-000028"
+    - "KC-000029"
+  related_glossary: []
+  relationship_path:
+    - "Regulatory Capital"
+    - "Canonical Concept CAN-CON-000040"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000003"
+    - "Supporting Document KC-000016"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000023"
+    - "Supporting Document KC-000027"
+    - "Supporting Document KC-000028"
+    - "Supporting Document KC-000029"
+  confidence_score: "Low"

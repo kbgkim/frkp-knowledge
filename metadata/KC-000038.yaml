@@ -1,0 +1,37 @@
+id: KC-000038
+original_path: "D:\\wrk\\juro\\NCR\\NCR업무요건정의서.pdf"
+relative_path: "NCR\\NCR업무요건정의서.pdf"
+filename: NCR업무요건정의서.pdf
+extension: pdf
+size: 22588484
+last_modified: "2026-06-23T13:05:51+09:00"
+sha256: f60ebb815439bfa7ab4db230d490f6569c6e863ca1adbf3cca0c839f1d86e865
+language: Korean/English
+estimated_domain:
+  - Unknown
+estimated_category: Technical
+inventory_status: Inventory
+frkp_mapping: []
+notes: Text index not technically available.
+semantic:
+  summary: "Text index not available in KC-001; semantic extraction is limited to metadata-derived signals."
+  topics:
+    - "NCR"
+  concepts:
+    []
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    []
+  abbreviations:
+    - "NCR"
+  regulations:
+    - "NCR Regulation"
+  organizations:
+    []
+  domains:
+    []
+  difficulty: "Introductory"
+  importance: "Critical"

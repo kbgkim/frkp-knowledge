@@ -1,0 +1,31 @@
+**********************
+PowerShell transcript start
+Start time: 20260628130228
+Username: DESKTOP-RDT5G4M\Roy
+RunAs User: DESKTOP-RDT5G4M\Roy
+Configuration Name: 
+Machine: DESKTOP-RDT5G4M (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\Program Files\WindowsApps\Microsoft.PowerShell_7.6.3.0_x64__8wekyb3d8bbwe\pwsh.dll -Command try { [Console]::OutputEncoding=[System.Text.Encoding]::UTF8 } catch {}
+& D:\wrk\frkp-knowledge\build_knowledge_inventory.ps1 -SourceRoot D:\wrk\juro -OutputRoot D:\wrk\frkp-knowledge
+Process ID: 9544
+PSVersion: 7.6.3
+PSEdition: Core
+GitCommitId: 7.6.3
+OS: Microsoft Windows 10.0.19045
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1, 6.0, 7.0
+PSRemotingProtocolVersion: 2.4
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Inventory source: D:\wrk\juro
+Inventory output: D:\wrk\frkp-knowledge
+Supported documents: 42
+Indexed documents: 31
+Ignored files: 0
+Duplicate candidate groups: 3
+Unknown-domain documents: 10
+**********************
+PowerShell transcript end
+End time: 20260628130241
+**********************

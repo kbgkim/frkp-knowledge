@@ -1,0 +1,55 @@
+id: KC-000041
+original_path: "D:\\wrk\\juro\\OpenEyes\\UROSYS OpenEyes_운영자매뉴얼_v0.90.docx"
+relative_path: "OpenEyes\\UROSYS OpenEyes_운영자매뉴얼_v0.90.docx"
+filename: UROSYS OpenEyes_운영자매뉴얼_v0.90.docx
+extension: docx
+size: 1511630
+last_modified: "2026-06-23T13:06:03+09:00"
+sha256: a4a637d08c64de334c96764a1af0a7d3e93666bef77c896350d150f0da0f65a6
+language: Korean/English
+estimated_domain:
+  - Java
+estimated_category: Regulation
+inventory_status: Indexed
+frkp_mapping: []
+notes:
+semantic:
+  summary: "평가 컨트롤러 설치 PAGEREF _Toc138407948 \\h 15 1.3.3. 유로 인스트루먼츠 에서 공급하는 U ROSYS OpenEyes 애플리케이션 (이하 OpenEyes 애플리케이션 또는 애플리케이션 ) 은 금융상품의 이론가 및 민감도를 산출하는 소프트웨어 프로그램 입니다. 서버 소프트웨어 수량 사양 비고 데이터베이스 서버 O S 1 Windows L inux / Unix D BMS 1 O racle P ostgreSQL 애플리케이션 서버 OS 1 Windows U nix / Linux JVM 1 J ava 8 W AS 1 Apache T omcat 9 평가 서버 O S 1 W indows ."
+  topics:
+    - "Java"
+    - "Pricing"
+    - "Sensitivity"
+    - "Statistics"
+    - "Stress Testing"
+  concepts:
+    - "Batch Scheduler"
+    - "Correlation"
+    - "Data Loader"
+    - "Market Data"
+    - "Sensitivity"
+    - "Stress Scenario"
+    - "Volatility"
+  formulas:
+    []
+  symbols:
+    []
+  glossary:
+    - term: "Java"
+      definition: "setlocal s et JAVA_OPTS=%JAVA_OPTS% - Dfile.encoding =UTF-8 T omcat 창의 로그 출력 에서 한글이 깨질 때 Tomcat 설치 디렉토리 하위 bind/ 디렉토리 내 “startup.bat” 또는 “catalina.bat start” 명령어를 사용하여 Tomcat 실행시 해당 창에 출력되는 로그의 한글이 깨져 보이는 경우는 다음 가, 나 중 한 해결책을 적용합니다."
+      source_document: "KC-000041"
+  abbreviations:
+    - "CLI"
+    - "OTC"
+    - "XML"
+  regulations:
+    []
+  organizations:
+    - "JURO"
+    - "UROSYS"
+  domains:
+    - "Credit Risk"
+    - "Java"
+    - "Mathematics"
+    - "Statistics"
+  difficulty: "Intermediate"
+  importance: "High"

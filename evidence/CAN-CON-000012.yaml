@@ -1,0 +1,191 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000012"
+  canonical_concept_name: "Data Loader"
+  concept_summary: "Evidence bundle for Data Loader; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000120"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000001"
+      source_document_path: "기타\\\\UROSYS Suite - 2022 메타버스 웨비나_v1.0(자료).pptx"
+      section_or_location: "KC-000001.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000009"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000001.semantic.yaml"
+        graph_evidence: "KC-000001 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000121"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000006"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_배치프로그램사양서.docx"
+      section_or_location: "KC-000006.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000006.semantic.yaml"
+        graph_evidence: "KC-000006 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000122"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000012"
+      source_document_path: "FRTB\\\\WIB_RMS고도화_FR_화면설계서_v1.0.xlsx"
+      section_or_location: "KC-000012.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000002"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000012.semantic.yaml"
+        graph_evidence: "KC-000012 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000123"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000022"
+      source_document_path: "Market\\\\BNK_시장VaR 로직설계서_1.0_20200121.docx"
+      section_or_location: "KC-000022.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000022.semantic.yaml"
+        graph_evidence: "KC-000022 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000124"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000036"
+      source_document_path: "NCR\\\\MIRAE_리스크관리시스템재구축_NCR_요건정의서_v1.3.10b.docx"
+      section_or_location: "KC-000036.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000036.semantic.yaml"
+        graph_evidence: "KC-000036 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000125"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000037"
+      source_document_path: "NCR\\\\NCR_배치사양서_통합_v1.0.docx"
+      section_or_location: "KC-000037.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000005"
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000037.semantic.yaml"
+        graph_evidence: "KC-000037 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000126"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000041"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_운영자매뉴얼_v0.90.docx"
+      section_or_location: "KC-000041.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations: []
+      supporting_glossary_terms: []
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Definition"
+      traceability:
+        semantic_artifact: "semantic/KC-000041.semantic.yaml"
+        graph_evidence: "KC-000041 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+    - evidence_id: "EVD-000127"
+      canonical_concept: "CAN-CON-000012"
+      canonical_concept_name: "Data Loader"
+      source_document: "KC-000042"
+      source_document_path: "OpenEyes\\\\UROSYS OpenEyes_제품소개자료_230512.pptx"
+      section_or_location: "KC-000042.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000002"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000009"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000042.semantic.yaml"
+        graph_evidence: "KC-000042 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts: []
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000002"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000001"
+    - "KC-000006"
+    - "KC-000012"
+    - "KC-000022"
+    - "KC-000036"
+    - "KC-000037"
+    - "KC-000041"
+    - "KC-000042"
+  related_glossary:
+    - "CAN-GLO-000009"
+  relationship_path:
+    - "Data Loader"
+    - "Canonical Concept CAN-CON-000012"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000002"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000001"
+    - "Supporting Document KC-000006"
+    - "Supporting Document KC-000012"
+    - "Supporting Document KC-000022"
+    - "Supporting Document KC-000036"
+    - "Supporting Document KC-000037"
+    - "Supporting Document KC-000041"
+    - "Supporting Document KC-000042"
+    - "KC-000001 --contains--> Data Loader"
+    - "Data Loader --referenced_by--> KC-000001"
+    - "Data Loader --belongs_to--> Credit Risk"
+    - "Data Loader --belongs_to--> FRTB"
+    - "Data Loader --belongs_to--> Java"
+    - "Data Loader --belongs_to--> Market Risk"
+    - "Data Loader --belongs_to--> Mathematics"
+    - "Data Loader --belongs_to--> Operational Risk"
+  confidence_score: "High"

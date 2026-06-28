@@ -1,0 +1,52 @@
+evidence_bundle:
+  canonical_concept: "CAN-CON-000023"
+  canonical_concept_name: "Liquidity Horizon"
+  concept_summary: "Evidence bundle for Liquidity Horizon; generated only from canonical, semantic, and graph corpus artifacts."
+  evidence_records:
+    - evidence_id: "EVD-000229"
+      canonical_concept: "CAN-CON-000023"
+      canonical_concept_name: "Liquidity Horizon"
+      source_document: "KC-000016"
+      source_document_path: "Market\\\\동부증권_시장리스크_업무요건정의서_v2.0.docx"
+      section_or_location: "KC-000016.semantic.yaml"
+      supporting_formulas: []
+      supporting_regulations:
+        - "CAN-REG-000001"
+        - "CAN-REG-000004"
+        - "CAN-REG-000005"
+      supporting_glossary_terms:
+        - "CAN-GLO-000016"
+      supporting_mathematical_concepts: []
+      confidence: "High"
+      evidence_type: "Regulation"
+      traceability:
+        semantic_artifact: "semantic/KC-000016.semantic.yaml"
+        graph_evidence: "KC-000016 semantic concept/topic/glossary evidence"
+        source_preserved: "true"
+  related_concepts:
+    - "Expected Shortfall"
+  related_formulas: []
+  related_regulations:
+    - "CAN-REG-000001"
+    - "CAN-REG-000004"
+    - "CAN-REG-000005"
+  related_documents:
+    - "KC-000016"
+  related_glossary:
+    - "CAN-GLO-000016"
+  relationship_path:
+    - "Liquidity Horizon"
+    - "Canonical Concept CAN-CON-000023"
+    - "Regulation CAN-REG-000001"
+    - "Regulation CAN-REG-000004"
+    - "Regulation CAN-REG-000005"
+    - "Supporting Document KC-000016"
+    - "KC-000016 --contains--> Liquidity Horizon"
+    - "Liquidity Horizon --referenced_by--> KC-000016"
+    - "Liquidity Horizon --belongs_to--> Credit Risk"
+    - "Liquidity Horizon --belongs_to--> Market Risk"
+    - "Liquidity Horizon --belongs_to--> Mathematics"
+    - "Liquidity Horizon --belongs_to--> Optimization"
+    - "Liquidity Horizon --belongs_to--> Regulation"
+    - "Liquidity Horizon --belongs_to--> Statistics"
+  confidence_score: "High"
